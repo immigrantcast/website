@@ -1,0 +1,24 @@
+{
+  "name": "immigrantcast",
+  "version": "1.0.0",
+  "description": "immigrantcast podcast website",
+  "main": "import.js",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "Artur Paikin, Alex Savin",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "rss-parser": "^3.8.0",
+    "turndown": "^6.0.0",
+    "typograf": "^6.11.1"
+  }
+}

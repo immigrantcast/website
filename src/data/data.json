@@ -1,0 +1,28 @@
+{
+  "title": "Иммигранткаст",
+  "subtitle": "Подкаст о жизни в разных странах, пленочной фотографии, свободном интернете, жизни на лодках, программировании и дронах.",
+  "description": "Подкаст о жизни в разных странах, пленочной фотографии, свободном интернете, жизни на лодках, программировании и дронах.",
+  "authors": [
+    "Александр Савин",
+    "Сергей Король",
+    "Артур Пайкин"
+  ],
+  "type": "serial",
+  "category": "News",
+  "subcategory": "Places & Travel",
+  "explicit": false,
+  "language": "ru",
+  "owner": {
+    "name": "Immigrantcast",
+    "email": "hello@alexsavin.me"
+  },
+  "copyright": "CC BY-NC-ND 4.0",
+  "paths": {
+    "site": "https://radioimmigrant.com/",
+    "feed": "https://radioimmigrant.com/feed/",
+    "audio": "https://radioimmigrant.com/episodes/",
+    "cover": "https://radioimmigrant.com/images/cover.png",
+    "social": "https://radioimmigrant.com/images/social.png",
+    "file": "src/episodes/"
+  }
+}

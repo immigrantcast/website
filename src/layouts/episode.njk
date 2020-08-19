@@ -1,0 +1,17 @@
+---
+layout: page.njk
+---
+
+{% include 'header.njk' %}
+
+<main>
+    <div class="episode">
+        <h1 class="episode__title">
+            {{ title }}
+        </h1>
+        <audio class="episode__audio" src="http://archive.radioimmigrant.com/episodes/{{ audio }}" controls></audio>
+        {{ content | safe }}
+    </div>
+</main>
+
+{% include 'footer.njk' %}

@@ -7,7 +7,6 @@ let turndownService = new TurndownService();
 let audioFilesNames = require('./audioFileNames.json');
  
 (async () => {
- 
   let feed = await parser.parseURL('https://www.spreaker.com/show/2683877/episodes/feed')
   console.log(feed.title)
  

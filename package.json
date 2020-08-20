@@ -4,7 +4,8 @@
   "description": "immigrantcast podcast website",
   "main": "import.js",
   "scripts": {
-    "build": "eleventy"
+    "build": "eleventy",
+    "watch": "eleventy --serve"
   },
   "keywords": [],
   "author": "Artur Paikin, Alex Savin",

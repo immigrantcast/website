@@ -1,0 +1,23 @@
+---
+layout: page.njk
+permalink: index.html
+---
+
+{% include 'header.njk' %}
+
+<main>
+    {% include 'subscribe.njk' %}
+    <h2>Все эпизоды</h2>
+    {%- for episode in collections.episode | reverse -%}
+        <article class="feature" id="e{{ episode.data.slug }}">
+            <h3 class="feature__title">
+                <img width="100" src="{{ episode.data.cover }}" loading="lazy">
+                <a class="feature__link" href="{{ episode.url }}">
+                    {{ episode.data.title }}
+                </a>
+            </h3>
+        </article>
+    {%- endfor -%}
+</main>
+
+{% include 'footer.njk' %}

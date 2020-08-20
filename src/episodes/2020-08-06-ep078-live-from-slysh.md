@@ -4,6 +4,7 @@ date: 2020-08-07 06:01:21
 slug: "ep078-live-from-slysh"
 audio: "2020-08-06_icast_ep078_Live_from_SLYSH.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/282e48efff884724dbbc422e14ddbcd9.jpg"
+tags: episode
 ---
 В прошлое воскресение редакция в полном составе успешно поучаствовала в первом русскоязычном фестивале подкастов СЛЫШ и записала живой эпизод с чатиком и вопросами из студии.  
   

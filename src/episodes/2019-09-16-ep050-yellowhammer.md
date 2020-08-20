@@ -4,6 +4,7 @@ date: 2019-09-19 03:25:46
 slug: "ep050-yellowhammer"
 audio: "2019-09-16_icast_ep050_Yellowhammer.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+tags: episode
 ---
 Редакция канала Пшеничные Поля вновь с нами чтобы разобраться во всем, что произошло в британском королевстве за последние две недели.  
   

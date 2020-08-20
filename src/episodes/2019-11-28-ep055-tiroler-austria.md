@@ -4,6 +4,7 @@ date: 2019-11-29 05:16:37
 slug: "ep055-tiroler-austria"
 audio: "2019-11-28_icast_ep055_Tiroler_Austria.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8bcb812ed1f933121613c4d862b2848a.jpg"
+tags: episode
 ---
 Иммигранткаст эпизод 55  
 Виктор Малышев из Тирольской Австрии  

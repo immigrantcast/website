@@ -4,6 +4,7 @@ date: 2020-06-26 04:07:53
 slug: "ep074-pandemic-travel"
 audio: "2020-06-25_icast_ep074_Pandemic_Travel.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/17a8a6e501697cea669d7eee159f4fdc.jpg"
+tags: episode
 ---
 Редакция в полном составе общается на следующие темы:  
   

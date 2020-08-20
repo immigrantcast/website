@@ -4,6 +4,7 @@ date: 2020-06-12 03:47:23
 slug: "ep072-bucharest-alexey-lago"
 audio: "2020-06-12_icast_ep072_Bucharest_Alexey_Lago.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f9aba4fc334568718d65da9fda6c8454.jpg"
+tags: episode
 ---
 Редакция в своем полном составе пообщалась с Алексеем Лаго из Бухареста. Помимо переезда и работы в столице Румынии Алексей также увлекается наручными часами, и мы пообщались на темы радиоактивных светящихся стрелок и какой Ролекс со временем дорожает в цене. Также в программе - кони и нелегальные парковки.  
   

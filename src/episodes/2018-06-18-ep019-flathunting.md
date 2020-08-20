@@ -4,6 +4,7 @@ date: 2018-06-18 05:44:28
 slug: "ep019-flathunting"
 audio: "2018-06-18_icast_ep019_Flathunting.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+tags: episode
 ---
 Специальный выпуск про радость каждого жителя большого города - поиск квартиры. В этом эпизоде мы узнаем из достоверных источников как с этим обстоят дела в Нью-Йорке, Лондоне и Берлине. А также в этом выпуске:  
   

@@ -4,6 +4,7 @@ date: 2019-11-01 04:56:31
 slug: "ep053-scottish-haggis"
 audio: "2019-10-31_icast_ep053_Scottish_Haggis.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4660917a26fc7ad25a3918ae85496e9c.jpg"
+tags: episode
 ---
 Сергей и Александр общаются на темы жизни в Шотландии и Италии  
   

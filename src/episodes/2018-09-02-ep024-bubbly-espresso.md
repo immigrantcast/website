@@ -4,6 +4,7 @@ date: 2018-09-07 03:45:35
 slug: "ep024-bubbly-espresso"
 audio: "2018-09-02_icast_ep024_Bubbly_Espresso.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+tags: episode
 ---
 Затаившаяся Москва  
 Где смотреть тру Москву  

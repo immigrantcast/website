@@ -4,6 +4,7 @@ date: 2018-10-08 05:15:05
 slug: "ep026-radio-grinch-ohio"
 audio: "2018-10-06_icast_ep026_Radio_Grinch_Ohio.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/59ca954ddcc792ffbb114cd9e5414b25.jpg"
+tags: episode
 ---
 Гостевой выпуск с Радио Гринч  
   

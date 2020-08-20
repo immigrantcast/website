@@ -4,6 +4,7 @@ date: 2020-06-04 05:30:30
 slug: "ep072-us-protests"
 audio: "2020-06-04_icast_ep072_US_protests.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/00cc5382221ba1328bec3f7c927d2b2e.jpg"
+tags: episode
 ---
 Сергей, Александр и Артур обсудили текущие события в Америке и подняли вопросы расизма и полицейского произвола  
   

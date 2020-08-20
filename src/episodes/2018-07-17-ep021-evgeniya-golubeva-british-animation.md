@@ -4,6 +4,7 @@ date: 2018-07-17 05:39:55
 slug: "ep021-evgeniya-golubeva-british-animation"
 audio: "2018-07-17_icast_ep021_Evgeniya_Golubeva_British_Animation.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+tags: episode
 ---
 Специальный эпизод с Евгенией Голубевой  
   

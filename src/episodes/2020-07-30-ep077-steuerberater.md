@@ -4,6 +4,7 @@ date: 2020-07-31 05:18:28
 slug: "ep077-steuerberater"
 audio: "2020-07-30_icast_ep077_Steuerberater.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/efec39c99d1e6f59fbd00a49b4db2fab.jpg"
+tags: episode
 ---
 Домашний выпуск Иммигранткаста где Сергей и Александр общаются на следующие темы:  
   

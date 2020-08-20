@@ -4,6 +4,7 @@ date: 2020-07-03 04:50:57
 slug: "ep075-casual-microracism"
 audio: "2020-07-02_icast_ep075_Casual_Microracism.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d3c9f350fb99a6eb69b54740ea34f163.jpg"
+tags: episode
 ---
 Редакция в своем полном составе попыталась подойти к теме ежедневного микро-расизма.  
   

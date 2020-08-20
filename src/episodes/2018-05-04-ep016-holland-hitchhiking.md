@@ -4,6 +4,7 @@ date: 2018-05-04 04:41:20
 slug: "ep016-holland-hitchhiking"
 audio: "2018-05-04_icast_ep016_Holland_Hitchhiking.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+tags: episode
 ---
 Наш новый домен: [http://radioimmigrant.com](http://radioimmigrant.com)  
 Наш Твиттер: [https://twitter.com/radioimmigrant](https://twitter.com/radioimmigrant)  

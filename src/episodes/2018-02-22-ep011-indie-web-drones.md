@@ -4,6 +4,7 @@ date: 2018-02-23 12:46:05
 slug: "ep011-indie-web-drones"
 audio: "2018-02-22_icast_ep011_Indie_Web_Drones.mp3"
 cover: "https://d1bm3dmew779uf.cloudfront.net/rss/show/2683877/ad8491808fd5d2fad6e14f544462250a.png"
+tags: episode
 ---
 \* Смотрел ли ты прямой эфир запуска Теслы в космос  
 \* Краткий обзор космических достижений человечества  

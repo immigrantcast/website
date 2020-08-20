@@ -4,6 +4,7 @@ date: 2020-04-21 04:09:13
 slug: "ep066-austria-artur"
 audio: "2020-04-20_icast_ep066_Austria_Artur.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f343fb101c8fd5324214a7ad78e6f3f6.jpg"
+tags: episode
 ---
 Артур Пайкин вернулся и рассказывает про то как он застрял в столице Австрии, что делать если у вас истекает Шенген и как протекает карантин в Вене. Также мы поговорим про Лондонскую холеру, поддельные яйца и вентиляторы от Теслы.  
   

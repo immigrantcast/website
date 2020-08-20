@@ -4,6 +4,7 @@ date: 2018-11-19 04:23:24
 slug: "ep029-self-bankcrupcy"
 audio: "2018-11-18_icast_ep029_Self_Bankcrupcy.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+length: 36440635
 tags: episode
 ---
 Артур и приезд в Москву  

@@ -4,6 +4,7 @@ date: 2018-12-25 06:33:16
 slug: "ep032-german-santa"
 audio: "2018-12-25_icast_ep032_German_Santa.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+length: 43117172
 tags: episode
 ---
 Новогодний выпуск Иммигранткаста  

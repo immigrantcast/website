@@ -4,6 +4,7 @@ date: 2019-07-25 04:41:06
 slug: "analog-film-bonus-track"
 audio: "2019-07-24_icast_analog_film_bonus_track.mp3"
 cover: "https://d1bm3dmew779uf.cloudfront.net/rss/show/2683877/ad8491808fd5d2fad6e14f544462250a.png"
+length: 37047511
 tags: episode
 ---
 Сергей Король и Александр Савин обсуждают растущую популярность пленочной фотографии в этом специальном бонус треке Иммигранткаста.  

@@ -4,6 +4,7 @@ date: 2017-12-14 21:29:55
 slug: "ep006-cryptokittens"
 audio: "2017-12-13_icast_ep006_Cryptokittens.mp3"
 cover: "https://d1bm3dmew779uf.cloudfront.net/rss/show/2683877/ad8491808fd5d2fad6e14f544462250a.png"
+length: 48162537
 tags: episode
 ---
 \* Немецкая машина для проявки цветной пленки - что это такое и как оно работает  

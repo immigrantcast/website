@@ -4,6 +4,7 @@ date: 2019-07-16 04:39:39
 slug: "ep046-golden-parachute-tax"
 audio: "2019-07-15_icast_ep046_Golden_Parachute_Tax.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+length: 37637661
 tags: episode
 ---
 Сергей Король и Александр Савин общаются на следующие горячие темы:  

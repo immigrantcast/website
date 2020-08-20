@@ -4,6 +4,7 @@ date: 2020-07-17 05:01:12
 slug: "ep076-ilya-sabanin-philadelphia-avia"
 audio: "2020-07-17_icast_ep076_Ilya_Sabanin_Philadelphia_avia.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/26989223bf4fc93ab8d51792b20ff1d3.jpg"
+length: 33523196
 tags: episode
 ---
 Как перебраться из Норильска в Филадельфию и получить лицензию пилота инструктора вы узнаете из этого выпуска с Ильей Сабаниным.  

@@ -4,6 +4,7 @@ date: 2018-02-08 15:00:00
 slug: "ep010-amsterdam-denis-medvedovski"
 audio: "2018-02-07_icast_ep010_Amsterdam_Denis_Medvedovski.mp3"
 cover: "https://d1bm3dmew779uf.cloudfront.net/rss/show/2683877/ad8491808fd5d2fad6e14f544462250a.png"
+length: 50734055
 tags: episode
 ---
 Денис Медведовский из Амстердама  

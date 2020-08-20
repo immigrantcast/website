@@ -4,6 +4,7 @@ date: 2019-02-10 17:05:34
 slug: "bonus-job-hunting"
 audio: "2019-02-04_icast_bonus_job_hunting.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+length: 19961447
 tags: episode
 ---
 Бонус трек нашего подкаста про поиск работы в Лондоне  

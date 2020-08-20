@@ -4,6 +4,7 @@ date: 2019-05-20 03:39:47
 slug: "ep042-nuclear-credit-rating"
 audio: "2019-05-16_icast_ep042_Nuclear_Credit_Rating.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+length: 32155980
 tags: episode
 ---
 Сергей Король и Александр Савин общаются на следующие темы  

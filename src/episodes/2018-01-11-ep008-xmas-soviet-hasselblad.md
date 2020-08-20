@@ -4,6 +4,7 @@ date: 2018-01-12 14:24:21
 slug: "ep008-xmas-soviet-hasselblad"
 audio: "2018-01-11_icast_ep008_Xmas_Soviet_Hasselblad.mp3"
 cover: "https://d1bm3dmew779uf.cloudfront.net/rss/show/2683877/ad8491808fd5d2fad6e14f544462250a.png"
+length: 64205937
 tags: episode
 ---
 Новогодняя гроза в Берлине  

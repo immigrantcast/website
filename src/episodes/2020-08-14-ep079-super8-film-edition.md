@@ -4,6 +4,7 @@ date: 2020-08-14 06:08:45
 slug: "ep079-super8-film-edition"
 audio: "2020-08-14_icast_ep079_Super8_Film_edition.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9437f57d6d4f9fe0b5529c4ae5727e8c.jpg"
+length: 31083049
 tags: episode
 ---
 Специальный кинопленочный бонус трек Сергея и Александра.  

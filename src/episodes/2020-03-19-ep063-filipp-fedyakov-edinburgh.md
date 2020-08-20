@@ -4,6 +4,7 @@ date: 2020-03-20 05:09:14
 slug: "ep063-filipp-fedyakov-edinburgh"
 audio: "2020-03-19_icast_ep063_Filipp_Fedyakov_Edinburgh.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f26b40af1d02a22544eb99efa7e0ff92.jpg"
+length: 38214906
 tags: episode
 ---
 Сергей и Александр пообщались с Филиппом Федяковым из столицы Шотландии:  

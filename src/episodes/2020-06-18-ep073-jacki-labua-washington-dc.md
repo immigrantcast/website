@@ -4,6 +4,7 @@ date: 2020-06-19 06:02:32
 slug: "ep073-jacki-labua-washington-dc"
 audio: "2020-06-18_icast_ep073_Jacki_LaBua_Washington_DC.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3470ab28153393f66a9a81f75a786415.jpg"
+length: 22851071
 tags: episode
 ---
 Редакция продолжает следить за событиями в Америке и нам удалось пообщаться с Джеки ЛаБуа ( [https://instagram.com/jackilab](https://instagram.com/jackilab) ) — она как раз живет в столице страны. Джеки родилась в Бостоне, выросла в Балтиморе, изучала политологию и внешние отношения в университете и по обмену дважды побывала в Санкт-Петербурге. Русский язык — один из пяти языков, на которых она говорит.  

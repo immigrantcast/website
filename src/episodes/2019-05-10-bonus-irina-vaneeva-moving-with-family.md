@@ -4,6 +4,7 @@ date: 2019-05-13 03:47:35
 slug: "bonus-irina-vaneeva-moving-with-family"
 audio: "2019-05-10_icast_bonus_Irina_Vaneeva_Moving_With_Family.mp3"
 cover: "https://d1bm3dmew779uf.cloudfront.net/rss/show/2683877/ad8491808fd5d2fad6e14f544462250a.png"
+length: 15743664
 tags: episode
 ---
 Бонус трек Иммигранткаста с Ириной Ванеевой про переезд в Лондон с семьей и собакой  

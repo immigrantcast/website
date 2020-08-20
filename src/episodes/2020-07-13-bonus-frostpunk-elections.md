@@ -4,6 +4,7 @@ date: 2020-07-13 05:02:08
 slug: "bonus-frostpunk-elections"
 audio: "2020-07-13_icast_bonus_Frostpunk_Elections.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/58f72fa3f17ffdcf509c3b4dfb5da915.jpg"
+length: 16950004
 tags: episode
 ---
 \- Голосование за поправки в конституцию в Лондоне во время пандемии  

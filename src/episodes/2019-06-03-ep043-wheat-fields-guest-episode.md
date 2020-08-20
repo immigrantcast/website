@@ -4,6 +4,7 @@ date: 2019-06-04 03:38:50
 slug: "ep043-wheat-fields-guest-episode"
 audio: "2019-06-03_icast_ep043_Wheat_Fields_guest_episode.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6bbb7310beae0e574f2f71949a61db5.jpg"
+length: 45884000
 tags: episode
 ---
 Редакция канала Пшеничные Поля Терезы Мэй в гостях у Иммигранткаста  

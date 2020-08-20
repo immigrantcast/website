@@ -4,6 +4,7 @@ date: 2020-01-24 05:18:02
 slug: "ep059-narrow-boats-life"
 audio: "2020-01-23_icast_ep059_Narrow_Boats_Life.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fc664ca22bc30f18b81970aaaf4f83db.jpg"
+length: 38383615
 tags: episode
 ---
 Сергей и Александр пообщались на следующие темы, основная из которых, пожалуй, это хипстерская альтернатива покупке своей квартирке в Лондоне в виде баржи на одном из многочисленных индустриальных каналов.  

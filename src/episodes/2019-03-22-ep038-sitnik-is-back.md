@@ -4,6 +4,7 @@ date: 2019-03-25 05:41:51
 slug: "ep038-sitnik-is-back"
 audio: "2019-03-22_icast_ep038_Sitnik_is_back.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+length: 29841727
 tags: episode
 ---
 Александр Савин, Сергей Король и Андрей Ситник общаются на следующие темы  

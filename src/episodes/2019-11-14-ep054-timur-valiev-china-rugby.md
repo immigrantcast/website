@@ -4,6 +4,7 @@ date: 2019-11-15 05:21:40
 slug: "ep054-timur-valiev-china-rugby"
 audio: "2019-11-14_icast_ep054_Timur_Valiev_China_Rugby.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8fa6613d8f22fb1412486aaa5ccb0caf.jpg"
+length: 36833229
 tags: episode
 ---
 Сергей и Александр общаются с Тимуром Валиевым на следующие темы:  

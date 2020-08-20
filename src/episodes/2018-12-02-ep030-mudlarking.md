@@ -4,6 +4,7 @@ date: 2018-12-03 05:24:49
 slug: "ep030-mudlarking"
 audio: "2018-12-02_icast_ep030_Mudlarking.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+length: 27226671
 tags: episode
 ---
 Распродажа в багетной мастерской  

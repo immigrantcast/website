@@ -7,10 +7,10 @@ layout: page.njk
 <main>
     <div class="episode">
         <h1 class="episode__title">{{ title }}</h1>
-        <audio class="episode__audio" src="https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/{{ audio }}" controls></audio>
+        <audio class="episode__audio" src="https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/{{ audio }}" controls preload="none"></audio>
         <a href="/download/{{ audio }}" download>Скачать mp3</a>
         <br />
-        <img width="300" src="{{ cover }}">
+        <img width="300" align="right" src="{{ cover }}">
         {{ content | safe }}
     </div>
 </main>

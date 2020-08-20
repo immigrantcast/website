@@ -43,6 +43,7 @@ date: ${date}
 slug: "${slug}"
 audio: "${audioFilesNames[fileNameDate]}"
 cover: "${episode.itunes.image}"
+length: ${episode.enclosure.length}
 tags: episode
 ---
 ${markdownContent}

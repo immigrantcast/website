@@ -7,6 +7,7 @@ layout: page.njk
 <main>
     <div class="episode">
         <h1 class="episode__title">{{ title }}</h1>
+        <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
         <audio class="episode__audio" src="https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/{{ audio }}" controls preload="none"></audio>
         <a href="/download/{{ audio }}" download>Скачать mp3</a>
         <br />

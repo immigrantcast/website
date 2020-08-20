@@ -9,16 +9,18 @@ permalink: index.html
     {% include 'subscribe.njk' %}
     <h2>Все эпизоды</h2>
     {%- for episode in collections.episode | reverse -%}
-      {% excerpt episode %}
-        <article class="feature" id="e{{ episode.data.slug }}">
-            <h3 class="feature__title">
-                <img width="100" src="{{ episode.data.cover }}" loading="lazy">
-                <a class="feature__link" href="{{ episode.url }}">
-                    {{ episode.data.title }}
-                </a>
-                {{ episode.data.excerpt }}
-            </h3>
-        </article>
+      <article class="feature" id="e{{ episode.data.slug }}">
+        <img width="100" src="{{ episode.data.cover }}" loading="lazy">
+        <div>
+          <h3 class="feature__title">
+            <a class="feature__link" href="{{ episode.url }}">
+              {{ episode.data.title }}
+            </a>
+          </h3>
+        <div>
+          {% excerpt episode %}
+        </div>
+      </article>
     {%- endfor -%}
 </main>
 

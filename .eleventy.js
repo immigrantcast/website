@@ -7,7 +7,7 @@ module.exports = function (config) {
       return tp.execute(content)
   })
 
-  eleventyConfig.addPlugin(excerpt)
+  config.addPlugin(excerpt)
 
   config.addPassthroughCopy('src/_redirects');
   // config.addPassthroughCopy('src/fonts');

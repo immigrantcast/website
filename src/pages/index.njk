@@ -3,25 +3,36 @@ layout: page.njk
 permalink: index.html
 ---
 
-{% include 'header.njk' %}
+<div class="container">
 
-<main>
-    {% include 'subscribe.njk' %}
-    <h2>Все эпизоды</h2>
-    {%- for episode in collections.episode | reverse -%}
-      <article class="feature" id="e{{ episode.data.slug }}">
-        <img width="100" src="{{ episode.data.cover }}" loading="lazy">
-        <div>
-          <h3 class="feature__title">
-            <a class="feature__link" href="{{ episode.url }}">
-              {{ episode.data.title }}
+  {% include 'header-index.njk' %}
+
+  <main>
+
+      {% include 'subscribe.njk' %}
+
+      <h2 class="episode-list__title">Все эпизоды ({{ collections.episode.length }})</h2>
+
+      {%- for episode in collections.episode | reverse -%}
+        <article class="feature" id="e{{ episode.data.slug }}">
+          <div class="feature__cover">
+            <a href="{{ episode.url }}">
+              <img width="150" src="{{ episode.data.cover }}" loading="lazy">
             </a>
-          </h3>
-        <div>
-          {% excerpt episode %}
-        </div>
-      </article>
-    {%- endfor -%}
-</main>
+          </div>
+          <div class="feature__description">
+            <h3 class="feature__title">
+              <a class="feature__link" href="{{ episode.url }}">
+                {{ episode.data.title }}
+              </a>
+            </h3>
+            {{ episode.templateContent | excerpt }}
+          </div>
+        </article>
+      {%- endfor -%}
 
-{% include 'footer.njk' %}
+  </main>
+
+  {% include 'footer.njk' %}
+
+</div>

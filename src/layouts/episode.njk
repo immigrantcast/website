@@ -2,18 +2,28 @@
 layout: page.njk
 ---
 
-{% include 'header.njk' %}
+<div class="container">
+    {% include 'header-internal.njk' %}
 
-<main>
-    <div class="episode">
-        <h1 class="episode__title">{{ title }}</h1>
-        <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
-        <audio class="episode__audio" src="https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/{{ audio }}" controls preload="none"></audio>
-        <a href="/download/{{ audio }}" download>Скачать mp3</a>
-        <br />
-        <img width="300" align="right" src="{{ cover }}">
-        {{ content | safe }}
-    </div>
-</main>
+    <main>
+        <div class="all-episodes">← <a href="/">Все эпизоды</a></div>
+        <article class="episode content">
+            <h1 class="episode__title">{{ title }}</h1>
+            <time class="episode__date" datetime="{{ date | htmlDateString }}">
+                {{ date | readableDate }}
+            </time>
+            <audio class="episode__audio" src="https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/{{ audio }}" controls preload="none"></audio>
+            <span class="episode__download">
+                <a href="/download/{{ audio }}" download>Скачать mp3</a> (<a target="_blank" href="/images/pleer_iriver_ifp1095_1.jpg">?</a>)
+            </span>
+            <div class="episode__content content">
+                <img class="episode__cover" width="300" src="{{ cover }}">
+                {{ content | safe }}
+            </div>
+        </article>
+    </main>
 
-{% include 'footer.njk' %}
+    {% include 'subscribe.njk' %}
+
+    {% include 'footer.njk' %}
+</div>

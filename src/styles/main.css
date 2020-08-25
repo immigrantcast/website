@@ -1,0 +1,405 @@
+/* Variables */
+
+:root {
+  color-scheme: light dark;
+  --background-color: #fff;
+  --background-color-reduce: #eee;
+  --background-color-reduce-more: #ccc;
+  --text-color: #333;
+  --text-color-reduce: #000;
+  --link-color: var(--text-color);
+  --link-color-reduce: var(--yellow);
+  --yellow: #FFC312;
+  --gray: #535c68;
+  --dark-gray: #2f3542;
+  --patreon-coral: #FF424D;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+      --background-color: #111416;
+      --background-color-reduce: #222527;
+      --background-color-reduce-more: #333638;
+      --text-color: #ccc;
+      --text-color-add: #bbb;
+      --text-color-add-more: #aaa;
+      --text-color-add-most: #999;
+      --text-color-reduce: #666;
+      --link-color: #f96;
+      --link-color-add: #c63;
+      --link-color-reduce: #e85;
+      --link-color-reduce-more: #c63;
+      --ui-color-background: #767676;
+      --ui-color-foreground: #693;
+  }
+} */
+
+/* Reset */
+
+/* Box sizing rules
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default padding */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* Remove list styles on ul, ol elements with a class attribute */
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Remove all animations and transitions for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Global */
+
+html {
+  font-size: 14px;
+}
+
+@media only screen and (min-width: 900px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  font-family: 'Merriweather', -apple-system, serif;
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: underline;
+}
+
+a:hover {
+  color: var(--link-color-reduce);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+}
+
+.svg-icon {
+  display: inline-block;
+  vertical-align: text-bottom;
+}
+
+.fixed-aspect-wrapper {
+  margin: 1em 0;
+  position: relative;
+  padding-top: 56.25%;
+}
+
+.fixed-aspect-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Layout */
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 0 1rem;
+}
+
+/* Header */
+
+.header {
+  margin-top: 1.4rem;
+  margin-bottom: 5rem;
+}
+
+  @media only screen and (min-width: 900px) {
+    .header {
+      display: flex;
+      flex-direction: row-reverse;
+    }
+  }
+
+.header__link {
+  display: inline-block;
+  font-size: 1.8rem;
+  line-height: 1;
+  font-weight: bold;
+  color: var(--yellow);
+  text-decoration: none;
+  margin-bottom: 2rem;
+}
+
+.header--inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.header--inner .header__link {
+  margin-left: 1rem;
+  margin-bottom: 0;
+}
+
+.header__cover img {
+  margin-bottom: 0.6rem;
+}
+
+.header__description,
+.header__hosts {
+  font-size: 1.15rem;
+  line-height: 1.5;
+  color: var(--dark-gray);
+  margin-bottom: 1rem;
+}
+
+.header__rating {
+  margin-bottom: 1rem;
+}
+
+  @media only screen and (min-width: 900px) {
+    .header__rating {
+      margin-bottom: 0;
+    }
+
+    .header__text {
+      width: 80%;
+    }    
+
+    .header__description,
+    .header__hosts {
+      max-width: 630px;
+    }
+  }
+
+.header__rating a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 0.7rem;
+  line-height: 1.7;
+  color: var(--gray);
+}
+
+.header__rating a:hover {
+  color: var(--link-color-reduce);
+}
+
+/* Footer */
+
+.footer {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+/* Subscription */
+
+.subscribe {
+  margin-bottom: 5rem;
+}
+
+.subscribe__title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.subscribe__list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.subscribe__list li {
+  width: 135px;
+  font-size: 1rem;
+  list-style: none;
+  margin-right: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.subscribe__patreon {
+  margin-top: 2rem;
+  line-height: 1;
+}
+
+.subscribe__patreon-icon {
+  position: relative;
+  top: -3px;
+  margin-right: 4px;
+}
+
+.subscribe__patreon-link {
+  text-decoration-color: var(--patreon-coral);
+}
+
+.subscribe__patreon-link:hover {
+  color: var(--patreon-coral);
+}
+
+/* Podcast List */
+
+.episode-list__title {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.feature {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 4rem;
+}
+
+.feature__cover {
+  width: 150px;
+  height: 150px;
+}
+
+.feature__title {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  max-width: 550px;
+}
+
+.feature__description {
+  line-height: 1.5;
+  margin-left: 1.5rem;
+  max-width: 650px;
+}
+
+/* Episode */
+
+.all-episodes {
+  margin-bottom: 2rem;
+}
+
+.episode__title {
+  font-size: 1.6rem;
+  line-height: 1.4;
+  margin-bottom: 0.2rem;
+  max-width: 800px;
+}
+
+.episode__date {
+  display: inline-block;
+  font-size: 0.8rem;
+  margin-bottom: 1.5rem;
+  color: var(--gray);
+}
+
+.episode__audio {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.4rem;
+  border-radius: 100px;
+}
+
+.episode__download {
+  display: inline-block;
+  font-size: 0.85rem;
+  margin-bottom: 3rem;
+}
+
+.episode__cover {
+  margin-bottom: 1rem;
+}
+
+@media only screen and (min-width: 900px) {
+  .episode__cover {
+    float: right;
+    margin-left: 2rem;
+  }
+}
+
+.episode__content {
+  font-size: 1.1rem;
+  margin-bottom: 4rem;
+}
+
+/* Content */
+
+.content p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
+
+.content ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+.content li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-bottom: 0.5rem;
+  margin-left: 1.2rem;
+  padding-left: 0.4rem;
+}
+
+.content li::marker {
+  content: '—'
+}

@@ -2,10 +2,11 @@ const Typograf = require('typograf')
 const tp = new Typograf({locale: ['ru', 'en-US']})
 const excerpt = require('eleventy-plugin-excerpt')
 const { DateTime } = require('luxon')
+const markdownIt = require('markdown-it')
 
 module.exports = function (config) {
-  config.addTransform('typograph', function(content, outputPath) {
-      return tp.execute(content)
+  config.addTransform('typograph', (content, outputPath) => {
+    return tp.execute(content)
   })
 
   config.addFilter('readableDate', (dateObj) => {
@@ -21,20 +22,36 @@ module.exports = function (config) {
       .toISO()
   })
 
+  config.addFilter('excerpt', (content) => {
+    const LENGTH = 250
+    let description = content.replace(/<(?:.|\n)*?>/gm, '')
+    description = description.replace(/\n\n/, '')
+    description = description.substring(0, LENGTH)
+    description = description.trim() + '...'
+    return description
+  })
+
   // Get the first `n` elements of a collection.
   config.addFilter('head', (array, n) => {
     if ( n < 0 ) {
       return array.slice(n)
     }
     return array.slice(0, n)
-  });
+  })
 
-  config.addPlugin(excerpt)
+  // config.addPlugin(excerpt)
 
-  config.addPassthroughCopy('src/_redirects');
+  let markdownLibrary = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true
+  })
+  config.setLibrary('md', markdownLibrary)
+
+  config.addPassthroughCopy('src/_redirects')
+  config.addPassthroughCopy('src/images')
+  config.addPassthroughCopy('src/styles')
   // config.addPassthroughCopy('src/fonts');
-  // config.addPassthroughCopy('src/images');
-  // config.addPassthroughCopy('src/styles');
   // config.addPassthroughCopy('src/scripts');
   // config.addPassthroughCopy('src/manifest.json');
   // config.addPassthroughCopy('src/episodes/**/*.mp3');

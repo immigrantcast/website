@@ -170,13 +170,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .header {
   margin-top: 1.4rem;
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 
   @media only screen and (min-width: 900px) {
     .header {
       display: flex;
-      flex-direction: row-reverse;
+      flex-direction: row;
+      margin-bottom: 5rem;
     }
   }
 
@@ -190,14 +191,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 2rem;
 }
 
-.header--inner {
-  display: flex;
-  flex-direction: row;
+.header--internal {
   align-items: center;
   margin-bottom: 2rem;
 }
 
-.header--inner .header__link {
+.header--internal .header__link {
   margin-left: 1rem;
   margin-bottom: 0;
 }
@@ -243,6 +242,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .header__rating a:hover {
   color: var(--link-color-reduce);
+}
+
+.all-episodes {
+  margin-bottom: 2rem;
 }
 
 /* Footer */
@@ -307,14 +310,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .feature {
-  display: flex;
-  flex-direction: row;
   margin-bottom: 4rem;
 }
 
 .feature__cover {
-  width: 150px;
-  height: 150px;
+  max-width: 300px;
+  margin-bottom: 1rem;
+}
+
+.feature__cover img {
+  width: 100%;
 }
 
 .feature__title {
@@ -325,15 +330,26 @@ h1, h2, h3, h4, h5, h6 {
 
 .feature__description {
   line-height: 1.5;
-  margin-left: 1.5rem;
   max-width: 650px;
 }
 
-/* Episode */
+@media only screen and (min-width: 900px) {
+  .feature {
+    display: flex;
+    flex-direction: row;
+  }
 
-.all-episodes {
-  margin-bottom: 2rem;
+  .feature__cover {
+    width: 150px;
+    margin-bottom: 0;
+  }
+
+  .feature__description {
+    margin-left: 1.5rem;
+  }
 }
+
+/* Episode */
 
 .episode__title {
   font-size: 1.6rem;

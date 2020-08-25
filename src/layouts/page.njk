@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <title>
-        {{ title or metadata.title }}
-    </title>
+    <title>{{ title or metadata.title }}</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,17 +10,16 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content=" {{ title or metadata.title }}">
     <meta property="og:site_name" content="{{ description or data.description }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ data.paths.site }}{{ page.url }}">
     <meta property="og:image" content="{{ data.paths.social }}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content=" {{ title or metadata.title }}">
     <meta name="twitter:description" content="{{ description or data.description }}">
-    <meta name="twitter:site" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:site" content="{{ data.paths.site }}{{ page.url }}">
     <meta name="twitter:image" content="{{ data.paths.social }}">
 
     <link rel="alternate" type="application/rss+xml" href="{{ data.paths.feed }}" title="{{ data.title }}">
-    <link rel="manifest" href="/manifest.json">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/immigrantcast32.png">
 
     <style>
@@ -31,8 +28,7 @@
 
     <link rel="stylesheet" href="/styles/main.css">
 </head>
-<body class="page__body">
+<body>
     {{ content | safe }}
-    <script type="module" src="/scripts/index.js"></script>
 </body>
 </html>

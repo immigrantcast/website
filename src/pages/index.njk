@@ -26,6 +26,7 @@ permalink: index.html
                 {{ episode.data.title }}
               </a>
             </h3>
+            {# {{ episode.template.frontMatter.content | excerpt }} #}
             {{ episode.templateContent | excerpt }}
           </div>
         </article>

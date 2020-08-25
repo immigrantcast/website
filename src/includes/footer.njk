@@ -1,8 +1,10 @@
-<footer>
-    <p class="social">
-        
-    </p>
+<footer class="footer">
     <p class="copyright">
-
+        © Иммигранткаст<br>
+        {%- for author in data.authors -%}
+            {%- if loop.last %} и{%- endif %}
+            <a href="{{ author.url }}">{{ author.name }}</a>
+            {%- if loop.length - loop.index >= 2 %},{%- endif %}
+        {%- endfor -%}
     </p>
 </footer>

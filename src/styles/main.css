@@ -1,42 +1,47 @@
+/* Fonts */
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/fonts/merriweather-v21-latin_cyrillic-300.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/merriweather-v21-latin_cyrillic-700.woff2') format('woff2');
+  font-display: swap;
+}
+
 /* Variables */
 
 :root {
   color-scheme: light dark;
   --background-color: #fff;
-  --background-color-reduce: #eee;
-  --background-color-reduce-more: #ccc;
   --text-color: #333;
-  --text-color-reduce: #000;
+  --text-color-reduce: var(--dark-gray);
   --link-color: var(--text-color);
-  --link-color-reduce: var(--yellow);
+  --link-color-hover: var(--yellow);
   --yellow: #FFC312;
   --gray: #535c68;
   --dark-gray: #2f3542;
   --patreon-coral: #FF424D;
 }
 
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   :root {
-      --background-color: #111416;
-      --background-color-reduce: #222527;
-      --background-color-reduce-more: #333638;
-      --text-color: #ccc;
-      --text-color-add: #bbb;
-      --text-color-add-more: #aaa;
-      --text-color-add-most: #999;
-      --text-color-reduce: #666;
-      --link-color: #f96;
-      --link-color-add: #c63;
-      --link-color-reduce: #e85;
-      --link-color-reduce-more: #c63;
-      --ui-color-background: #767676;
-      --ui-color-foreground: #693;
+    --background-color: #111416;
+    --text-color: #ccc;
+    --text-color-reduce: #ccc;
   }
-} */
+}
 
 /* Reset */
 
-/* Box sizing rules
+/* Box sizing rules */
 *,
 *::before,
 *::after {
@@ -124,6 +129,7 @@ html {
 body {
   font-family: 'Merriweather', -apple-system, serif;
   color: var(--text-color);
+  background-color: var(--background-color);
 }
 
 a {
@@ -132,7 +138,7 @@ a {
 }
 
 a:hover {
-  color: var(--link-color-reduce);
+  color: var(--link-color-hover);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -202,14 +208,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header__cover img {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.8rem;
 }
 
 .header__description,
 .header__hosts {
   font-size: 1.15rem;
   line-height: 1.5;
-  color: var(--dark-gray);
+  color: var(--text-color-reduce);
   margin-bottom: 1rem;
 }
 
@@ -237,11 +243,11 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   font-size: 0.7rem;
   line-height: 1.7;
-  color: var(--gray);
+  color: var(--text-color-reduce);
 }
 
 .header__rating a:hover {
-  color: var(--link-color-reduce);
+  color: var(--link-color-hover);
 }
 
 .all-episodes {
@@ -252,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer {
   font-size: 0.8rem;
-  line-height: 1.5;
+  line-height: 1.7;
   margin-bottom: 2rem;
 }
 

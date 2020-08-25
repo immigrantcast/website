@@ -3,7 +3,7 @@ title: "Секрет долголетия домашних кошек - эпиз
 date: 2018-04-20 04:19:18
 slug: "ep015-pandora-the-cat"
 audio: "2018-04-20_icast_ep015_Pandora_the_Cat.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 28619701
 tags: episode
 ---

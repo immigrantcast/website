@@ -3,7 +3,7 @@ title: "Марат Сайтаков из Индийского Гоа - выпу�
 date: 2020-04-07 04:40:50
 slug: "ep065-marat-saitakov-goa"
 audio: "2020-04-06_icast_ep065_Marat_Saitakov_Goa.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e22d058b873b1d420c07a81ac919a28e.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/e22d058b873b1d420c07a81ac919a28e.jpg"
 length: 30720082
 tags: episode
 ---

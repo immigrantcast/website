@@ -3,7 +3,7 @@ title: "Сергей Той из Сингапура - выпуск 68"
 date: 2020-05-25 05:12:09
 slug: "ep068-singapore-sergey-toy"
 audio: "2020-05-23_icast_ep068_Singapore_Sergey_Toy.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ff3060358d39f33f115e4556631dbc20.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/ff3060358d39f33f115e4556631dbc20.jpg"
 length: 39015524
 tags: episode
 ---

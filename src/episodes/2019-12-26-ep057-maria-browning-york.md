@@ -3,7 +3,7 @@ title: "Йорк с Марией Браунинг - эпизод 57"
 date: 2019-12-27 07:07:36
 slug: "ep057-maria-browning-york"
 audio: "2019-12-26_icast_ep057_Maria_Browning_York.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bfeea0084562bad62843cecf764a02c1.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/bfeea0084562bad62843cecf764a02c1.jpg"
 length: 38788693
 tags: episode
 ---

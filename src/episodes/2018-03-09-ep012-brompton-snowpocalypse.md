@@ -3,7 +3,7 @@ title: "На Бромптоне по Снегокалипсису - эпизод
 date: 2018-03-09 06:54:56
 slug: "ep012-brompton-snowpocalypse"
 audio: "2018-03-09_icast_ep012_Brompton_Snowpocalypse.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/21588f5e0ab64ddb713216afbcf66a5a.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/21588f5e0ab64ddb713216afbcf66a5a.jpg"
 length: 37624175
 tags: episode
 ---

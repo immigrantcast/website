@@ -3,7 +3,7 @@ title: "Пробковый Сбор на Дыхательные Маски - в�
 date: 2020-02-21 06:17:07
 slug: "ep061-electric-brompton"
 audio: "2020-02-20_icast_ep061_Electric_Brompton.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dc31218ae43b6b7cde55c47c9272e439.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/dc31218ae43b6b7cde55c47c9272e439.jpg"
 length: 34918971
 tags: episode
 ---

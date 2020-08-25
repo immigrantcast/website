@@ -3,7 +3,7 @@ title: "Люксембуржский Биткоин - Сергей Тихоми�
 date: 2019-12-13 06:07:17
 slug: "ep056-sergey-tikhomirov-luxemburg"
 audio: "2019-12-12_icast_ep056_Sergey_Tikhomirov_Luxemburg.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/843935140788432129f7a5257dd2e4a8.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/843935140788432129f7a5257dd2e4a8.jpg"
 length: 40981098
 tags: episode
 ---

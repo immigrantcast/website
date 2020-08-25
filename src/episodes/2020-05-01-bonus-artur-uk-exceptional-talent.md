@@ -3,7 +3,7 @@ title: "Британская виза для таланта - бонус тре�
 date: 2020-05-04 04:02:16
 slug: "bonus-artur-uk-exceptional-talent"
 audio: "2020-05-01_icast_bonus_Artur_UK_exceptional_talent.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/54ff3fb3fdc53c8d2ff7b8af812a8518.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/54ff3fb3fdc53c8d2ff7b8af812a8518.jpg"
 length: 15923545
 tags: episode
 ---

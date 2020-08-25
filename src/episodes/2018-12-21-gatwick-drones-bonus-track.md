@@ -3,7 +3,7 @@ title: "Дроны в Гатвике - бонус трек"
 date: 2018-12-22 17:28:49
 slug: "gatwick-drones-bonus-track"
 audio: "2018-12-21_icast_Gatwick_Drones_bonus_track.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8fa6613d8f22fb1412486aaa5ccb0caf.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/8fa6613d8f22fb1412486aaa5ccb0caf.jpg"
 length: 10166268
 tags: episode
 ---

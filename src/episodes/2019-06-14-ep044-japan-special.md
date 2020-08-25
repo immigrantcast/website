@@ -3,7 +3,7 @@ title: "Япония, Лава и Радиация - выпуск 44"
 date: 2019-06-17 05:53:10
 slug: "ep044-japan-special"
 audio: "2019-06-14_icast_ep044_Japan_Special.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 34365291
 tags: episode
 ---

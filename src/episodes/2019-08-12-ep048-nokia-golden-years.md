@@ -3,7 +3,7 @@ title: "Успех и крах финской Нокии - выпуск 48"
 date: 2019-08-13 04:58:17
 slug: "ep048-nokia-golden-years"
 audio: "2019-08-12_icast_ep048_Nokia_Golden_Years.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 36607113
 tags: episode
 ---

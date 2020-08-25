@@ -3,7 +3,7 @@ title: "Веник Павла Косенко - выпуск 51"
 date: 2019-09-27 04:01:34
 slug: "ep051-pavel-kosenko-sreda"
 audio: "2019-09-26_icast_ep051_Pavel_Kosenko_Sreda.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7b74ae321491669de3df0d632aca8414.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/7b74ae321491669de3df0d632aca8414.jpg"
 length: 44825715
 tags: episode
 ---

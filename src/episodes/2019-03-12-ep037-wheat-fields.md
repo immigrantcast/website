@@ -3,7 +3,7 @@ title: "Пшеничные поля Терезы Мэй - выпуск 37"
 date: 2019-03-12 04:43:46
 slug: "ep037-wheat-fields"
 audio: "2019-03-12_icast_ep037_Wheat_Fields.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 35480669
 tags: episode
 ---

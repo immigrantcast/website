@@ -3,7 +3,7 @@ title: "Вулканическое яйцо - автостопом по Исла
 date: 2018-09-21 07:28:07
 slug: "ep025-iceland-hitchhiking"
 audio: "2018-09-21_icast_ep025_Iceland_hitchhiking.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 40941013
 tags: episode
 ---

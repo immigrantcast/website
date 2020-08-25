@@ -3,7 +3,7 @@ title: "Удаленное Выгорание - выпуск 70"
 date: 2020-06-02 04:40:02
 slug: "ep070-remote-burnout"
 audio: "2020-05-31_icast_ep070_Remote_Burnout.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d1dcda38e0293f3dc0356101995382f8.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d1dcda38e0293f3dc0356101995382f8.jpg"
 length: 23499624
 tags: episode
 ---

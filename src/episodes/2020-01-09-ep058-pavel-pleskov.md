@@ -3,7 +3,7 @@ title: "Павел Плесков про Вьетнам, кайт-серфинг
 date: 2020-01-10 05:21:28
 slug: "ep058-pavel-pleskov"
 audio: "2020-01-09_icast_ep058_Pavel_Pleskov.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ca19a2b834c5f759783684ba9ae830b2.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/ca19a2b834c5f759783684ba9ae830b2.jpg"
 length: 36688119
 tags: episode
 ---

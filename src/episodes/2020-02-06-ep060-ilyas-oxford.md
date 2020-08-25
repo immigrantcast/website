@@ -3,7 +3,7 @@ title: "Учеба в Оксфорде и как туда попасть - Ил�
 date: 2020-02-07 06:34:38
 slug: "ep060-ilyas-oxford"
 audio: "2020-02-06_icast_ep060_Ilyas_Oxford.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f884c8a7023e2bd6de0dde83b6625fe0.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/f884c8a7023e2bd6de0dde83b6625fe0.jpg"
 length: 30208932
 tags: episode
 ---

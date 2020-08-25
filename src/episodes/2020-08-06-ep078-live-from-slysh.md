@@ -3,7 +3,7 @@ title: "Лайв с фестиваля СЛЫШ - Лодка в Лондоне, 
 date: 2020-08-07 06:01:21
 slug: "ep078-live-from-slysh"
 audio: "2020-08-06_icast_ep078_Live_from_SLYSH.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/282e48efff884724dbbc422e14ddbcd9.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/282e48efff884724dbbc422e14ddbcd9.jpg"
 length: 30802369
 tags: episode
 ---

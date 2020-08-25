@@ -3,7 +3,7 @@ title: "Burning Man с Лерой Железовой - выпуск 52"
 date: 2019-10-20 15:57:30
 slug: "ep052-lera-zhelezova-burning-man"
 audio: "2019-10-18_icast_ep052_Lera_Zhelezova_Burning_Man.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bde105333a348b092af467576698ed02.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/bde105333a348b092af467576698ed02.jpg"
 length: 40044865
 tags: episode
 ---

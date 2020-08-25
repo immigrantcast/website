@@ -3,7 +3,7 @@ title: "Корона Микстейп - бонус трек"
 date: 2020-04-13 05:18:56
 slug: "corona-mixtape"
 audio: "2020-04-11_icast_corona_mixtape.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/48ea8d69e73db57f405ecb93c5ba5265.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/48ea8d69e73db57f405ecb93c5ba5265.jpg"
 length: 30648380
 tags: episode
 ---

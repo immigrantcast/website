@@ -3,7 +3,7 @@ title: "Коронавирус в Нью-Йорке, Берлине и Лонд�
 date: 2020-03-27 05:47:03
 slug: "ep064-elena-zakharova-nyc-quarantine"
 audio: "2020-03-26_icast_ep064_Elena_Zakharova_NYC_quarantine.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1d124fbb0b6a4c49a8096f8a194a447d.jpg"
+cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/1d124fbb0b6a4c49a8096f8a194a447d.jpg"
 length: 37030120
 tags: episode
 ---

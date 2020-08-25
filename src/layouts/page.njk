@@ -8,13 +8,13 @@
     <meta name="description" content="{{ data.description }}">
 
     <meta property="og:type" content="website">
-    <meta property="og:title" content=" {{ title or data.title }}">
+    <meta property="og:title" content="{{ title or data.title }}">
     <meta property="og:site_name" content="{{ description or data.description }}">
     <meta property="og:url" content="{{ data.paths.site }}{{ page.url }}">
     <meta property="og:image" content="{{ cover or data.paths.social }}">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content=" {{ title or data.title }}">
+    <meta name="twitter:title" content="{{ title or data.title }}">
     <meta name="twitter:description" content="{{ description or data.description }}">
     <meta name="twitter:site" content="{{ data.paths.site }}{{ page.url }}">
     <meta name="twitter:image" content="{{ cover or data.paths.social }}">

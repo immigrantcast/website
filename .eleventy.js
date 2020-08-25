@@ -25,9 +25,9 @@ module.exports = function (config) {
   config.addFilter('excerpt', (content) => {
     const LENGTH = 250
     let description = content.replace(/<(?:.|\n)*?>/gm, '')
-    description = description.replace(/\n\n/, '')
-    description = description.substring(0, LENGTH)
-    description = description.trim() + '...'
+      .replace(/\n\n/, '')
+      .substring(0, LENGTH)
+      .trim() + '...'
     return description
   })
 
@@ -51,7 +51,7 @@ module.exports = function (config) {
   config.addPassthroughCopy('src/_redirects')
   config.addPassthroughCopy('src/images')
   config.addPassthroughCopy('src/styles')
-  // config.addPassthroughCopy('src/fonts');
+  config.addPassthroughCopy('src/fonts');
   // config.addPassthroughCopy('src/scripts');
   // config.addPassthroughCopy('src/manifest.json');
   // config.addPassthroughCopy('src/episodes/**/*.mp3');

@@ -10,7 +10,7 @@ tags: episode
 ---
 
 Редакция в полном составе пообщалась с Ильей Бирманом.  
-  
+
 * Проекты Ильи и схема Московского метро [https://ilyabirman.ru/projects/moscow-metro/map/2016/](https://ilyabirman.ru/projects/moscow-metro/map/2016/)  
 * Схема парижского метро Константина Коновалова [http://metromap.fr/ru](http://metromap.fr/ru)  
 * Типографская раскладка [https://ilyabirman.ru/projects/typography-layout/](https://ilyabirman.ru/projects/typography-layout/)  

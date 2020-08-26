@@ -5,7 +5,7 @@ const { DateTime } = require('luxon')
 const markdownIt = require('markdown-it')
 
 module.exports = function (config) {
-  config.addTransform('typograph', (content, outputPath) => {
+  config.addTransform('typograph', (content) => {
     return tp.execute(content)
   })
 
@@ -39,8 +39,6 @@ module.exports = function (config) {
     return array.slice(0, n)
   })
 
-  // config.addPlugin(excerpt)
-
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
@@ -53,7 +51,6 @@ module.exports = function (config) {
   config.addPassthroughCopy('src/styles')
   config.addPassthroughCopy('src/fonts');
   // config.addPassthroughCopy('src/scripts');
-  // config.addPassthroughCopy('src/manifest.json');
   // config.addPassthroughCopy('src/episodes/**/*.mp3');
 
   return {

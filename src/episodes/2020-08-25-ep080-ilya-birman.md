@@ -8,7 +8,8 @@ length: 44364029
 explicit: clean
 tags: episode
 ---
-Редакция в полном составе пообщалась с Ильей Бирманом  
+
+Редакция в полном составе пообщалась с Ильей Бирманом.  
   
 * Проекты Ильи и схема Московского метро [https://ilyabirman.ru/projects/moscow-metro/map/2016/](https://ilyabirman.ru/projects/moscow-metro/map/2016/)  
 * Схема парижского метро Константина Коновалова [http://metromap.fr/ru](http://metromap.fr/ru)  

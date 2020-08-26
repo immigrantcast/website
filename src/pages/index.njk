@@ -17,7 +17,7 @@ permalink: index.html
         <article class="feature" id="e{{ episode.data.slug }}">
           <div class="feature__cover">
             <a href="{{ episode.url }}">
-              <img width="150" src="{{ episode.data.cover }}" loading="lazy">
+              <img width="150" src="{{ episode.data.cover or data.paths.relativeCover }}" loading="lazy">
             </a>
           </div>
           <div class="feature__description">

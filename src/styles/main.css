@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header__link {
   display: inline-block;
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   line-height: 1;
   font-weight: bold;
   color: var(--yellow);
@@ -198,6 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header--internal {
+  display: flex;
   align-items: center;
   margin-bottom: 2rem;
 }
@@ -209,6 +210,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .header__cover img {
   margin-bottom: 0.8rem;
+}
+
+.header__text {
+  margin-bottom: 2rem;
 }
 
 .header__description,
@@ -230,6 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 
     .header__text {
       width: 80%;
+      margin-bottom: 0;
     }    
 
     .header__description,
@@ -290,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .subscribe__patreon {
   margin-top: 2rem;
-  line-height: 1;
+  line-height: 1.5;
 }
 
 .subscribe__patreon-icon {
@@ -331,12 +337,12 @@ h1, h2, h3, h4, h5, h6 {
 .feature__title {
   font-size: 1.3rem;
   margin-bottom: 0.5rem;
-  max-width: 550px;
 }
 
 .feature__description {
   line-height: 1.5;
-  max-width: 650px;
+  max-width: 550px;
+  overflow-wrap: break-word;
 }
 
 @media only screen and (min-width: 900px) {
@@ -402,6 +408,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Content */
 
+.content {
+  overflow-wrap: break-word;
+}
+
 .content p {
   margin-bottom: 1em;
   line-height: 1.6;
@@ -418,10 +428,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   list-style: none;
   margin-bottom: 0.5rem;
-  margin-left: 1.2rem;
-  padding-left: 0.4rem;
+  padding-left: 1.6em;
+  position: relative;
 }
 
-.content li::marker {
-  content: '—'
+.content li:before {
+  content: '—';
+  position: absolute;
+  top: 0;
+  left: 0;
 }

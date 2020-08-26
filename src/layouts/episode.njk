@@ -2,6 +2,13 @@
 layout: page.njk
 ---
 
+{% set isAbsoluteUrl = r/^(?:[a-z]+:)?\/\//i %}
+{% if isAbsoluteUrl.test(audio) %}
+  {% set audioUrl = audio %}
+{% else %}
+  {% set audioUrl = 'https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/' + audio %}
+{% endif %}
+
 <div class="container">
     {% include 'header-internal.njk' %}
 
@@ -12,12 +19,12 @@ layout: page.njk
             <time class="episode__date" datetime="{{ date | htmlDateString }}">
                 {{ date | readableDate }}
             </time>
-            <audio class="episode__audio" src="https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/{{ audio }}" controls preload="none"></audio>
+            <audio class="episode__audio" src="{{ audioUrl }}" controls preload="none"></audio>
             <span class="episode__download">
                 <a href="/download/{{ audio }}" download>Скачать mp3</a> (<a target="_blank" href="/images/player-sony.jpg">?</a>)
             </span>
             <div class="episode__content content">
-                <img class="episode__cover" width="300" src="{{ cover }}">
+                <img class="episode__cover" width="300" src="{{ cover or data.paths.relativeCover }}">
                 {{ content | safe }}
             </div>
         </article>

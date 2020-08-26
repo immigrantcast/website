@@ -7,7 +7,7 @@ cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreake
 length: 15923545
 tags: episode
 ---
-Артур Пайкин рассказывает про получение британской визы Global Talent и переезд в Лондон  
+Артур Пайкин рассказывает про получение британской визы Global Talent и переезд в Лондон. 
   
 * Ситуация с яйцами  
 * Австрия снимает карантин  

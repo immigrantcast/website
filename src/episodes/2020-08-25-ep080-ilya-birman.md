@@ -13,7 +13,7 @@ tags: episode
 
 * Проекты Ильи и схема Московского метро [https://ilyabirman.ru/projects/moscow-metro/map/2016/](https://ilyabirman.ru/projects/moscow-metro/map/2016/)  
 * Схема парижского метро Константина Коновалова [http://metromap.fr/ru](http://metromap.fr/ru)  
-* Типографская раскладка [https://ilyabirman.ru/projects/typography-layout/](https://ilyabirman.ru/projects/typography-layout/)  
+* Типографская раскладка [https://ilyabirman.ru/projects/typography-layout/](https://ilyabirman.ru/projects/typography-layout/), [свежий ролик Ильи о раскладке](https://www.youtube.com/watch?v=a_d2njUvrRE ) (10 минут)
 * Челябинск и почему там хорошо  
 * Городская среда и Челябинск  
 * Зимовка в Тель Авиве  
@@ -28,7 +28,8 @@ tags: episode
 * «Школьные годы чудесные» — микс «евроденса» от Ильи Бирмана [https://ilyabirman.ru/meanwhile/all/eurodance/](https://ilyabirman.ru/meanwhile/all/eurodance/)  
 * Лучшая схема метро в мире  
 * Государственный строй и нужен ли нам президент [https://mobile.twitter.com/ilyabirman/status/1294180648907874304](https://mobile.twitter.com/ilyabirman/status/1294180648907874304)  
-* Почему люди платят налоги [https://ilyabirman.ru/meanwhile/all/why-people-pay-taxes/](https://ilyabirman.ru/meanwhile/all/why-people-pay-taxes/)  
+* Почему люди платят налоги [https://ilyabirman.ru/meanwhile/all/why-people-pay-taxes/](https://ilyabirman.ru/meanwhile/all/why-people-pay-taxes/)
+* «Олег в твиттере», который (частично) разделяет позиции Ильи про государство https://mobile.twitter.com/oleganza
 * Еда как базовое право гражданина  
 * Молинье и рассуждения по поводу роли государства  
 * Движок блогов Эгея и почему в ней нет ката [https://ilyabirman.ru/projects/aegea/](https://ilyabirman.ru/projects/aegea/)  

@@ -5,6 +5,8 @@ let TurndownService = require('turndown');
 let turndownService = new TurndownService();
 
 let audioFilesNames = require('./audioFileNames.json');
+
+const NEW_ONLY = true;
  
 (async () => {
   let feed = await parser.parseURL('https://www.spreaker.com/show/2683877/episodes/feed')
@@ -12,12 +14,13 @@ let audioFilesNames = require('./audioFileNames.json');
  
   feed.items.forEach(item => {
     console.log(item.title + ':' + item.link)
-    console.log(item.content)
-    console.log(item.pubDate)
-    console.log(new Date(item.pubDate).toISOString())
+    console.log(item.itunes.explicit)
+    // console.log(item.content)
+    // console.log(item.pubDate)
+    // console.log(new Date(item.pubDate).toISOString())
     console.log(item.enclosure.url)
-    console.log(item.enclosure.length)
-    console.log(item.itunes.image)
+    // console.log(item.enclosure.length)
+    // console.log(item.itunes.image)
     saveEpisodeFile(item)
   })
 })();
@@ -27,8 +30,10 @@ function saveEpisodeFile (episode) {
     .replace(/T/, ' ') // replace T with a space
     .replace(/\..+/, '') // delete the dot and everything after
   const fileNameDate = new Date(episode.pubDate).toISOString().split('T')[0]
-  const markdownContent = turndownService.turndown(episode.content)
-  let fileName = ''
+  let markdownContent = turndownService.turndown(episode.content)
+    .replace(/\\- /g, '* ')
+  let fileName = null
+  let slug = null
   if (typeof audioFilesNames[fileNameDate] !== 'undefined') {
     fileName = audioFilesNames[fileNameDate]
       .replace('.mp3', '')
@@ -36,18 +41,32 @@ function saveEpisodeFile (episode) {
       .replace(/_/g, '-')
       .toLowerCase()
   }
-  let slug = fileName.substring(11)
+  if (!fileName) {
+    slug = episode.link.split('/').pop().replace('icast-', '')
+    fileName = slug
+  } else {
+    slug = fileName.substring(11)
+  }
   const content = `---
 title: "${episode.title}"
 date: ${date}
 slug: "${slug}"
-audio: "${audioFilesNames[fileNameDate]}"
+audio: "${audioFilesNames[fileNameDate] || episode.enclosure.url}"
 cover: "${episode.itunes.image}"
 length: ${episode.enclosure.length}
+explicit: ${episode.itunes.explicit}
 tags: episode
 ---
 ${markdownContent}
 `
   const path = `./src/episodes/${fileName}.md`
-  fs.writeFileSync(path, content)
+
+  if (NEW_ONLY) {
+    if (!fs.existsSync(path)) {
+      console.log('New episode:', path)
+      fs.writeFileSync(path, content)
+    }
+  } else {
+    fs.writeFileSync(path, content)
+  }
 }

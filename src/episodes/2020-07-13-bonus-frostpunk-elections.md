@@ -7,17 +7,17 @@ cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreake
 length: 16950004
 tags: episode
 ---
-\- Голосование за поправки в конституцию в Лондоне во время пандемии  
-\- Костя Пинаев гуляет возле посольства в Лондоне [https://www.youtube.com/watch?v=ETgvfFEj2q4](https://www.youtube.com/watch?v=ETgvfFEj2q4)  
-\- Метро во время пандемии  
-\- Артур про район Хакни в восточном Лондоне  
-\- На каком метро можно уехать в Эссекс  
-\- Проект - Станция Смена [https://www.smenastation.com/](https://www.smenastation.com/)  
-\- Онлайн коворкинг  
-\- Закрытые онлайн сообщества  
-\- Фростпанк  
-\- Rimworld  
-\- Дюна  
+* Голосование за поправки в конституцию в Лондоне во время пандемии  
+* Костя Пинаев гуляет возле посольства в Лондоне [https://www.youtube.com/watch?v=ETgvfFEj2q4](https://www.youtube.com/watch?v=ETgvfFEj2q4)  
+* Метро во время пандемии  
+* Артур про район Хакни в восточном Лондоне  
+* На каком метро можно уехать в Эссекс  
+* Проект - Станция Смена [https://www.smenastation.com/](https://www.smenastation.com/)  
+* Онлайн коворкинг  
+* Закрытые онлайн сообщества  
+* Фростпанк  
+* Rimworld  
+* Дюна  
   
 Наш Патреон: [https://patreon.com/immigrantcast](https://patreon.com/immigrantcast)  
 Телеграм: [https://t.me/immigrantcast](https://t.me/immigrantcast)  

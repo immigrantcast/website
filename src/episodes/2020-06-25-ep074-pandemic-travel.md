@@ -9,25 +9,25 @@ tags: episode
 ---
 Редакция в полном составе общается на следующие темы:  
   
-\- Возвращение блудного Артура из Вены в Лондон  
-\- Перелет во время пандемии  
-\- Дайджест от Артура [https://arturpaikin.com/ru/digest-18/#002-own-your-distribution](https://arturpaikin.com/ru/digest-18/#002-own-your-distribution)  
-\- Просроченный Шенген  
-\- Карантин в Британии  
-\- Маски в кофейне  
-\- Открытие границ  
-\- Карантин в Финляндии  
-\- План парашютистов по выходу из карантина  
-\- Будущее подкастов [https://marinintim.com/2020/future-of-podcasts/](https://marinintim.com/2020/future-of-podcasts/)  
-\- Джо Роган переходит на Спотифай  
-\- Твит от Marco Arment: [https://mobile.twitter.com/marcoarment/status/1262826773202505729](https://mobile.twitter.com/marcoarment/status/1262826773202505729)  
-\- Свободный интернет  
-\- История компании Спотифай  
-\- Рассылка Сергея и нюдс  
-\- Ситуация с русскими VPN  
-\- Теплый ламповый успех русского подкаста  
-\- Вастрик клуб [https://vas3k.club/](https://vas3k.club/)  
-\- Пенсия с коммьюнити на Патреоне  
+* Возвращение блудного Артура из Вены в Лондон  
+* Перелет во время пандемии  
+* Дайджест от Артура [https://arturpaikin.com/ru/digest-18/#002-own-your-distribution](https://arturpaikin.com/ru/digest-18/#002-own-your-distribution)  
+* Просроченный Шенген  
+* Карантин в Британии  
+* Маски в кофейне  
+* Открытие границ  
+* Карантин в Финляндии  
+* План парашютистов по выходу из карантина  
+* Будущее подкастов [https://marinintim.com/2020/future-of-podcasts/](https://marinintim.com/2020/future-of-podcasts/)  
+* Джо Роган переходит на Спотифай  
+* Твит от Marco Arment: [https://mobile.twitter.com/marcoarment/status/1262826773202505729](https://mobile.twitter.com/marcoarment/status/1262826773202505729)  
+* Свободный интернет  
+* История компании Спотифай  
+* Рассылка Сергея и нюдс  
+* Ситуация с русскими VPN  
+* Теплый ламповый успех русского подкаста  
+* Вастрик клуб [https://vas3k.club/](https://vas3k.club/)  
+* Пенсия с коммьюнити на Патреоне  
   
 Наш Патреон: [https://www.patreon.com/immigrantcast](https://www.patreon.com/immigrantcast)  
 Телеграм канал: [https://t.me/immigrantcast](https://t.me/immigrantcast)  

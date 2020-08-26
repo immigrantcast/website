@@ -9,27 +9,27 @@ tags: episode
 ---
 Сергей и Александр пообщались на темы эффективной удаленки, безобвинительных ретроспектив и индийского чая со специями.  
   
-\- Работа в офисе как специальный перк  
-\- Эффективная удаленка  
-\- Будущее мировой удаленки и индексирование зарплат  
-\- Вынужденная удаленка  
-\- Оборудование домашнего офиса  
-\- Индийский чай со специями  
-\- Удаленное выгорание  
-\- Gitlab Handbook: [https://about.gitlab.com/handbook/](https://about.gitlab.com/handbook/)  
-\- Хорошие намерения  
-\- Культура низкого контекста  
-\- Синхронная и асинхронная работа  
-\- Культура эффективного корпоративного чатика  
-\- Культура безобвинительной ретроспективы  
-\- Расслабленный Берлин  
-\- Максим Кац и обзор карантина в Латинской Америке [https://www.youtube.com/watch?v=0-WCeGFUekA](https://www.youtube.com/watch?v=0-WCeGFUekA)  
-\- Документалка "Русская Работа" [https://www.youtube.com/watch?v=Ms-6n5G8A5Q](https://www.youtube.com/watch?v=Ms-6n5G8A5Q)  
-\- Документалка "Последний Лимузин" [https://www.youtube.com/watch?v=DBCdTB8dPTU](https://www.youtube.com/watch?v=DBCdTB8dPTU)  
-\- Документалка American Factory [https://www.netflix.com/title/81090071](https://www.netflix.com/title/81090071)  
-\- Возвращение на заводы американского автопрома [https://www.theverge.com/2020/5/22/21266240/ford-general-motors-fiat-tesla-reopen-playbook-testing-covid-19-coronavirus](https://www.theverge.com/2020/5/22/21266240/ford-general-motors-fiat-tesla-reopen-playbook-testing-covid-19-coronavirus)  
-\- Камеры с открытым исходным кодом от Доры Гудман [https://www.doragoodman.com/](https://www.doragoodman.com/)  
-\- Будущее камер напечатанных на 3д принтере  
+* Работа в офисе как специальный перк  
+* Эффективная удаленка  
+* Будущее мировой удаленки и индексирование зарплат  
+* Вынужденная удаленка  
+* Оборудование домашнего офиса  
+* Индийский чай со специями  
+* Удаленное выгорание  
+* Gitlab Handbook: [https://about.gitlab.com/handbook/](https://about.gitlab.com/handbook/)  
+* Хорошие намерения  
+* Культура низкого контекста  
+* Синхронная и асинхронная работа  
+* Культура эффективного корпоративного чатика  
+* Культура безобвинительной ретроспективы  
+* Расслабленный Берлин  
+* Максим Кац и обзор карантина в Латинской Америке [https://www.youtube.com/watch?v=0-WCeGFUekA](https://www.youtube.com/watch?v=0-WCeGFUekA)  
+* Документалка "Русская Работа" [https://www.youtube.com/watch?v=Ms-6n5G8A5Q](https://www.youtube.com/watch?v=Ms-6n5G8A5Q)  
+* Документалка "Последний Лимузин" [https://www.youtube.com/watch?v=DBCdTB8dPTU](https://www.youtube.com/watch?v=DBCdTB8dPTU)  
+* Документалка American Factory [https://www.netflix.com/title/81090071](https://www.netflix.com/title/81090071)  
+* Возвращение на заводы американского автопрома [https://www.theverge.com/2020/5/22/21266240/ford-general-motors-fiat-tesla-reopen-playbook-testing-covid-19-coronavirus](https://www.theverge.com/2020/5/22/21266240/ford-general-motors-fiat-tesla-reopen-playbook-testing-covid-19-coronavirus)  
+* Камеры с открытым исходным кодом от Доры Гудман [https://www.doragoodman.com/](https://www.doragoodman.com/)  
+* Будущее камер напечатанных на 3д принтере  
   
 Наш Патреон: [https://patreon.com/immigrantcast](https://patreon.com/immigrantcast)  
 Телеграм канал: [https://t.me/immigrantcast](https://t.me/immigrantcast)  

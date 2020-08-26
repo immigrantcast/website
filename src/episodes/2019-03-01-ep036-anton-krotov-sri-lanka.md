@@ -3,7 +3,6 @@ title: "Антон Кротов из Шри-Ланки - путешествен�
 date: 2019-03-04 05:49:35
 slug: "ep036-anton-krotov-sri-lanka"
 audio: "2019-03-01_icast_ep036_Anton_Krotov_Sri_Lanka.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 24428380
 tags: episode
 ---

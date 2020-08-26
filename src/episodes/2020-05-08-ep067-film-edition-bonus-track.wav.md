@@ -9,40 +9,40 @@ tags: episode
 ---
 Специальный пленочный выпуск Иммигранткаста где Александр и Сергей общаются на следующие темы:  
   
-\- Автохром на стекле  
-\- Стереотипы про историю пленки  
-\- Срок действия картофельного крахмала  
-\- Автохром посмотреть онлайн без регистрации [https://www.flickr.com/photos/karismafilms/albums/72157713696067613](https://www.flickr.com/photos/karismafilms/albums/72157713696067613)  
-\- Использование интернета для распознавания местности на фоточках  
-\- Рентгеновская пленка для маммографии  
-\- Использование просроченной рентгеновской пленки  
-\- Домашняя фото печать  
-\- Фотоувеличитель Durst  
-\- Multigrade фотобумага  
-\- Даркрум на районе в восточном Лондоне  
-\- Линзы для фотоувеличителя  
-\- Hasselblad 500CM (со звуками затвора)  
-\- Цены на хорошие камеры и стоят ли они того  
-\- Rolleiflex 6x6 2.8F (со звуками)  
-\- Концепция экспозиционных чисел  
-\- 35мм и средний формат  
-\- Leica M6  
-\- Лихорадка по скупке пленочных камер  
-\- Поролоид  
-\- Polaroid 690 - камера мечты  
-\- Ситуация Zugzwang [https://en.wikipedia.org/wiki/Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)  
-\- Мгновенная фотография от Кодака [https://www.youtube.com/watch?v=EJadBqbRlzw](https://www.youtube.com/watch?v=EJadBqbRlzw)  
-\- Многообразие камер Инстакс от Fuji [https://emulsive.org/articles/so-you-want-to-shoot-fujifilm-instax-these-are-your-options-today](https://emulsive.org/articles/so-you-want-to-shoot-fujifilm-instax-these-are-your-options-today)  
-\- Морозилка и кассеты от Полароида  
-\- Восстановление высохших кассет peel apart  
-\- Проявка кинопленки дома  
-\- Кинопленка Super 8  
-\- Кинокамера Экран-4  
-\- Проявка и сканирование 8мм кинопленки в лаборатории Среда [https://sreda.photo/lab/movie/movie-film-dev-scan](https://sreda.photo/lab/movie/movie-film-dev-scan)  
-\- Повышение цен на пленку  
-\- Ситуация с фабрикой Илфорд  
-\- Цветной Илфорд  
-\- Dufaycolor - цветной процесс 1930-х лет [https://en.wikipedia.org/wiki/Dufaycolor](https://en.wikipedia.org/wiki/Dufaycolor)  
+* Автохром на стекле  
+* Стереотипы про историю пленки  
+* Срок действия картофельного крахмала  
+* Автохром посмотреть онлайн без регистрации [https://www.flickr.com/photos/karismafilms/albums/72157713696067613](https://www.flickr.com/photos/karismafilms/albums/72157713696067613)  
+* Использование интернета для распознавания местности на фоточках  
+* Рентгеновская пленка для маммографии  
+* Использование просроченной рентгеновской пленки  
+* Домашняя фото печать  
+* Фотоувеличитель Durst  
+* Multigrade фотобумага  
+* Даркрум на районе в восточном Лондоне  
+* Линзы для фотоувеличителя  
+* Hasselblad 500CM (со звуками затвора)  
+* Цены на хорошие камеры и стоят ли они того  
+* Rolleiflex 6x6 2.8F (со звуками)  
+* Концепция экспозиционных чисел  
+* 35мм и средний формат  
+* Leica M6  
+* Лихорадка по скупке пленочных камер  
+* Поролоид  
+* Polaroid 690 - камера мечты  
+* Ситуация Zugzwang [https://en.wikipedia.org/wiki/Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)  
+* Мгновенная фотография от Кодака [https://www.youtube.com/watch?v=EJadBqbRlzw](https://www.youtube.com/watch?v=EJadBqbRlzw)  
+* Многообразие камер Инстакс от Fuji [https://emulsive.org/articles/so-you-want-to-shoot-fujifilm-instax-these-are-your-options-today](https://emulsive.org/articles/so-you-want-to-shoot-fujifilm-instax-these-are-your-options-today)  
+* Морозилка и кассеты от Полароида  
+* Восстановление высохших кассет peel apart  
+* Проявка кинопленки дома  
+* Кинопленка Super 8  
+* Кинокамера Экран-4  
+* Проявка и сканирование 8мм кинопленки в лаборатории Среда [https://sreda.photo/lab/movie/movie-film-dev-scan](https://sreda.photo/lab/movie/movie-film-dev-scan)  
+* Повышение цен на пленку  
+* Ситуация с фабрикой Илфорд  
+* Цветной Илфорд  
+* Dufaycolor - цветной процесс 1930-х лет [https://en.wikipedia.org/wiki/Dufaycolor](https://en.wikipedia.org/wiki/Dufaycolor)  
   
 Светочуствительные Материалы - Телеграм канал: [https://t.me/polachrome](https://t.me/polachrome)  
   

@@ -3,7 +3,6 @@ title: "Налоговый Судный День - выпуск 28"
 date: 2018-11-05 05:02:28
 slug: "ep028-digital-obsolescence"
 audio: "2018-11-04_icast_ep028_Digital_Obsolescence.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 32105427
 tags: episode
 ---

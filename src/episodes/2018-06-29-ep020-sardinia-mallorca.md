@@ -3,7 +3,6 @@ title: "Пост-апокалиптический Киндл - эпизод 20"
 date: 2018-06-29 06:07:48
 slug: "ep020-sardinia-mallorca"
 audio: "2018-06-29_icast_ep020_Sardinia_Mallorca.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 25769884
 tags: episode
 ---

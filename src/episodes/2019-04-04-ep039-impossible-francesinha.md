@@ -3,7 +3,6 @@ title: "Невероятная Францесинья - выпуск 39"
 date: 2019-04-08 03:26:22
 slug: "ep039-impossible-francesinha"
 audio: "2019-04-04_icast_ep039_Impossible_Francesinha.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 34598286
 tags: episode
 ---

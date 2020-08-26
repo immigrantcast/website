@@ -3,7 +3,6 @@ title: "Необычная Промышленная Провинция - вып�
 date: 2019-08-28 03:57:26
 slug: "ep049-cherepovets"
 audio: "2019-08-27_icast_ep049_Cherepovets.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 33774615
 tags: episode
 ---

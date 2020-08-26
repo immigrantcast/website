@@ -3,7 +3,6 @@ title: "Протесты Веганов в Центральном Лондоне
 date: 2019-05-02 04:27:28
 slug: "ep041-extinction-rebellion"
 audio: "2019-05-01_icast_ep041_Extinction_Rebellion.mp3"
-cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d20daaa729fc8cae11f6717f5c961b50.jpg"
 length: 31298787
 tags: episode
 ---

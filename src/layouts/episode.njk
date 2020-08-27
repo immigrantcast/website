@@ -19,9 +19,9 @@ layout: page.njk
             <time class="episode__date" datetime="{{ date | htmlDateString }}">
                 {{ date | readableDate }}
             </time>
-            <audio class="episode__audio" src="{{ audioUrl }}" controls preload="none"></audio>
+            <audio id="episode-audio-player" class="episode__audio" src="{{ audioUrl }}" controls preload="none"></audio>
             <span class="episode__download">
-                <a href="/download/{{ audio }}" download>Скачать mp3</a> (<a target="_blank" href="/images/player-sony.jpg">?</a>)
+                <a href="/download/{{ audio }}" download>Скачать mp3</a> (<a target="_blank" href="/assets/images/player-sony.jpg">?</a>)
             </span>
             <div class="episode__content content">
                 <img class="episode__cover" width="300" src="{{ cover or data.paths.relativeCover }}">
@@ -31,6 +31,5 @@ layout: page.njk
     </main>
 
     {% include 'subscribe.njk' %}
-
     {% include 'footer.njk' %}
 </div>

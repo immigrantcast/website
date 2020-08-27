@@ -11,6 +11,7 @@ function setEpisodeAudioTime (seconds) {
   audioPlayer.currentTime = seconds
 }
 
+// from https://davatron5000.github.io/TimeJump
 function getHashTimeVariable () {
   let regex = /\bt=([\dhHmMsS.:]*)(?:,([\dhHmMsS.:]+))?\b/g
   let match = regex.exec(location.hash)

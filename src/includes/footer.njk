@@ -1,10 +1,14 @@
 <footer class="footer">
-    <p class="copyright">
+    <p class="footer__copyright">
         © Иммигранткаст<br>
         {%- for author in data.authors -%}
             {%- if loop.last %} и{%- endif %}
             <a href="{{ author.url }}">{{ author.name }}</a>
             {%- if loop.length - loop.index >= 2 %},{%- endif %}
         {%- endfor -%}
+        <br>
+    </p>
+    <p class="footer__madein">
+        Разработка сайта — <a href="http://unebaguette.com">Багет</a>
     </p>
 </footer>

@@ -268,7 +268,15 @@ h1, h2, h3, h4, h5, h6 {
 .footer {
   font-size: 0.8rem;
   line-height: 1.7;
+  margin-top: 1rem;
   margin-bottom: 2rem;
+}
+
+@media only screen and (min-width: 900px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 /* Subscription */

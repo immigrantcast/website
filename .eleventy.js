@@ -47,11 +47,7 @@ module.exports = function (config) {
   config.setLibrary('md', markdownLibrary)
 
   config.addPassthroughCopy('src/_redirects')
-  config.addPassthroughCopy('src/images')
-  config.addPassthroughCopy('src/styles')
-  config.addPassthroughCopy('src/fonts');
-  // config.addPassthroughCopy('src/scripts');
-  // config.addPassthroughCopy('src/episodes/**/*.mp3');
+  config.addPassthroughCopy('src/assets/**/*.*')
 
   return {
     dir: {

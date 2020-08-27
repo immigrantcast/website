@@ -20,9 +20,9 @@
   "paths": {
     "site": "https://immigrantcast.unebaguette.com",
     "feed": "https://www.spreaker.com/show/2683877/episodes/feed",
-    "audio": "https://immigrantcast.unebaguette.com",
+    "audio": "https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/",
     "cover": "https://immigrantcast.unebaguette.com/images/immigrantcast@2x.jpg",
-    "relativeCover": "/images/immigrantcast@2x.jpg",
+    "relativeCover": "/assets/images/immigrantcast@2x.jpg",
     "social": "https://immigrantcast.unebaguette.com/images/immigrantcast@2x.jpg",
     "file": "src/episodes/"
   }

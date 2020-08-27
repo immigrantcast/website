@@ -4,7 +4,7 @@
   font-family: 'Merriweather';
   font-style: normal;
   font-weight: 300;
-  src: url('/fonts/merriweather-v21-latin_cyrillic-300.woff2') format('woff2');
+  src: url('/assets/fonts/merriweather-v21-latin_cyrillic-300.woff2') format('woff2');
   font-display: swap;
 }
 
@@ -12,7 +12,7 @@
   font-family: 'Merriweather';
   font-style: normal;
   font-weight: 700;
-  src: url('/fonts/merriweather-v21-latin_cyrillic-700.woff2') format('woff2');
+  src: url('/assets/fonts/merriweather-v21-latin_cyrillic-700.woff2') format('woff2');
   font-display: swap;
 }
 
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .subscribe__patreon {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   line-height: 1.5;
 }
 
@@ -394,7 +394,6 @@ h1, h2, h3, h4, h5, h6 {
 .episode__download {
   display: inline-block;
   font-size: 0.85rem;
-  margin-bottom: 3rem;
 }
 
 .episode__cover {
@@ -410,6 +409,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .episode__content {
   font-size: 1.1rem;
+  margin-top: 3rem;
   margin-bottom: 4rem;
 }
 

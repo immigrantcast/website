@@ -14,18 +14,18 @@ layout: page.njk
 <div class="container">
     {% include 'header-internal.njk' %}
 
-    <main>
+    <main role="main">
         <div class="all-episodes">← <a href="/">Все эпизоды</a></div>
         <article class="episode content">
-            <h1 class="episode__title">{{ title }}</h1>
-            <time class="episode__date" datetime="{{ date | htmlDateString }}">
+            <h1 class="episode__title p-name">{{ title }}</h1>
+            <time class="episode__date dt-published" datetime="{{ date | htmlDateString }}">
                 {{ date | readableDate }}
             </time>
-            <audio id="episode-audio-player" class="episode__audio" src="{{ audioUrl }}" controls preload="none"></audio>
+            <audio id="episode-audio-player" class="episode__audio" src="{{ audioUrl }}" controls preload="metadata"></audio>
             <span class="episode__download">
                 <a href="{{ downloadAudioUrl }}" download>Скачать mp3</a> (<a target="_blank" href="/assets/images/player-sony.jpg">?</a>)
             </span>
-            <div class="episode__content content">
+            <div class="content episode__content e-content">
                 <img class="episode__cover" width="300" src="{{ cover or data.paths.relativeCover }}">
                 {{ content | safe }}
             </div>

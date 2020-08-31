@@ -7,27 +7,27 @@ permalink: index.html
 
   {% include 'header-index.njk' %}
 
-  <main>
+  <main role="main h-feed">
 
       {% include 'subscribe.njk' %}
 
       <h2 class="episode-list__title">Все эпизоды ({{ collections.episode.length }})</h2>
 
       {%- for episode in collections.episode | reverse -%}
-        <article class="feature" id="e{{ episode.data.slug }}">
+        <article class="feature h-entry" id="e{{ episode.data.slug }}">
           <div class="feature__cover">
             <a href="{{ episode.url }}">
               <img width="150" src="{{ episode.data.cover or data.paths.relativeCover }}" loading="lazy">
             </a>
           </div>
           <div class="feature__description">
-            <h3 class="feature__title">
+            <h3 class="feature__title p-name">
               <a class="feature__link" href="{{ episode.url }}">
                 {{ episode.data.title }}
               </a>
             </h3>
             {# {{ episode.template.frontMatter.content | excerpt }} #}
-            <p>{{ episode.templateContent | excerpt }}</p>
+            <p class="p-summary">{{ episode.templateContent | excerpt }}</p>
           </div>
         </article>
       {%- endfor -%}

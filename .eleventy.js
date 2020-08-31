@@ -48,6 +48,7 @@ module.exports = function (config) {
 
   config.addPassthroughCopy('src/_redirects')
   config.addPassthroughCopy('src/assets/**/*.*')
+  config.addPassthroughCopy('src/media/**/*.*')
 
   return {
     dir: {

@@ -13,7 +13,7 @@ tags: episode
 
 * Проекты Ильи и схема Московского метро [https://ilyabirman.ru/projects/moscow-metro/map/2016/](https://ilyabirman.ru/projects/moscow-metro/map/2016/)  
 * Схема парижского метро Константина Коновалова [http://metromap.fr/ru](http://metromap.fr/ru)  
-* Типографская раскладка [https://ilyabirman.ru/projects/typography-layout/](https://ilyabirman.ru/projects/typography-layout/), [свежий ролик Ильи о раскладке](https://www.youtube.com/watch?v=a_d2njUvrRE ) (10 минут)
+* Типографская раскладка [https://ilyabirman.ru/projects/typography-layout/](https://ilyabirman.ru/projects/typography-layout/), [свежий ролик Ильи о раскладке](https://www.youtube.com/watch?v=a_d2njUvrRE )
 * Челябинск и почему там хорошо  
 * Городская среда и Челябинск  
 * Зимовка в Тель Авиве  

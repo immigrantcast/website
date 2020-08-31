@@ -10,7 +10,7 @@ tags: episode
 Как перебраться из Норильска в Филадельфию и получить лицензию пилота инструктора вы узнаете из этого выпуска с Ильей Сабаниным.  
   
 Блог Ильи:  
-[https://medium.com/](https://medium.com/)@nebozabugrom  
+[https://medium.com/@nebozabugrom](https://medium.com/@nebozabugrom)
   
 Иммигранткаст лайв 2-го августа в 19:00 по Москве на фестивале СЛЫШ: [https://podfest.ru/](https://podfest.ru/)  
   

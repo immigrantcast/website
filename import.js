@@ -13,12 +13,12 @@ const NEW_ONLY = true;
   console.log(feed.title)
  
   feed.items.forEach(item => {
-    console.log(item.title + ':' + item.link)
+    // console.log(item.title + ':' + item.link)
     // console.log(item.itunes.explicit)
     // console.log(item.content)
     // console.log(item.pubDate)
     // console.log(new Date(item.pubDate).toISOString())
-    console.log(item.enclosure.url)
+    // console.log(item.enclosure.url)
     // console.log(item.enclosure.length)
     // console.log(item.itunes.image)
     saveEpisodeFile(item)

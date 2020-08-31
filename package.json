@@ -5,7 +5,8 @@
   "main": "import.js",
   "scripts": {
     "build": "eleventy",
-    "watch": "eleventy --serve"
+    "watch": "eleventy --serve",
+    "import-new-episode": "node import.js"
   },
   "keywords": [],
   "author": "Artur Paikin, Alex Savin",

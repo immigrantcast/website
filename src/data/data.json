@@ -20,10 +20,10 @@
   "paths": {
     "site": "https://radioimmigrant.com",
     "feed": "https://www.spreaker.com/show/2683877/episodes/feed",
-    "audio": "https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/",
-    "cover": "https://radioimmigrant.com/images/immigrantcast@2x.jpg",
+    "audioExternalStorage": "https://s3-eu-west-1.amazonaws.com/archive.radioimmigrant.com/episodes/",
+    "cover": "https://radioimmigrant.com/assets/images/immigrantcast@2x.jpg",
     "relativeCover": "/assets/images/immigrantcast@2x.jpg",
-    "social": "https://radioimmigrant.com/images/immigrantcast@2x.jpg",
+    "social": "https://radioimmigrant.com/assets/images/immigrantcast@2x.jpg",
     "file": "src/episodes/"
   }
 }

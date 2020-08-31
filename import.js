@@ -14,7 +14,7 @@ const NEW_ONLY = true;
  
   feed.items.forEach(item => {
     console.log(item.title + ':' + item.link)
-    console.log(item.itunes.explicit)
+    // console.log(item.itunes.explicit)
     // console.log(item.content)
     // console.log(item.pubDate)
     // console.log(new Date(item.pubDate).toISOString())
@@ -52,6 +52,7 @@ title: "${episode.title}"
 date: ${date}
 slug: "${slug}"
 audio: "${audioFilesNames[fileNameDate] || episode.enclosure.url}"
+audioAlternative: "${episode.enclosure.url}"
 cover: "${episode.itunes.image}"
 length: ${episode.enclosure.length}
 explicit: ${episode.itunes.explicit}

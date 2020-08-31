@@ -29,7 +29,7 @@ permalink: feed/index.xml
 {%- for episode in collections.episode -%}
 
     {% set fileUrl %}
-        {{ data.paths.audio }}/{{ episode.data.audio }}
+        {{ data.paths.audioExternalStorage }}/{{ episode.data.audio }}
     {% endset %}
 
     <item>

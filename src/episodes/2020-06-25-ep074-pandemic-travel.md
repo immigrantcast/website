@@ -3,6 +3,7 @@ title: "Перелёт во время пандемии - выпуск 74"
 date: 2020-06-26 04:07:53
 slug: "ep074-pandemic-travel"
 audio: "2020-06-25_icast_ep074_Pandemic_Travel.mp3"
+audioAlternative: "https://api.spreaker.com/download/episode/33198271/icast_ep_74_pandemic_travel.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/17a8a6e501697cea669d7eee159f4fdc.jpg"
 length: 23438437
 tags: episode

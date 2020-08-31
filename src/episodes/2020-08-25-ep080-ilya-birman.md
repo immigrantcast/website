@@ -2,7 +2,8 @@
 title: "Илья Бирман про дизайн, Тель-Авив и Челябинск - выпуск 80"
 date: 2020-08-26 06:16:48
 slug: "2020-08-25-ep080-ilya-birman"
-audio: "https://api.spreaker.com/download/episode/40495959/2020_08_25_icast_ep080_ilya_birman.mp3"
+audio: "2020-08-25_icast_ep080_Ilya_Birman.mp3"
+audioAlternative: "https://api.spreaker.com/download/episode/40495959/2020_08_25_icast_ep080_ilya_birman.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d99d018a84b042835f5f88f578f20334.jpg"
 length: 44364029
 explicit: clean

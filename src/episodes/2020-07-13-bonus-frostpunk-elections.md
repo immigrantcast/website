@@ -3,6 +3,7 @@ title: "Голосование и Фростпанк - бонус трек"
 date: 2020-07-13 05:02:08
 slug: "bonus-frostpunk-elections"
 audio: "2020-07-13_icast_bonus_Frostpunk_Elections.mp3"
+audioAlternative: "https://api.spreaker.com/download/episode/38257125/icast_bonus_frostpunk_elections.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/58f72fa3f17ffdcf509c3b4dfb5da915.jpg"
 length: 16950004
 tags: episode

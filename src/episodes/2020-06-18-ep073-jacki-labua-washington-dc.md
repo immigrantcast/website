@@ -3,6 +3,7 @@ title: "Jacki LaBua из Вашингтона - выпуск 73"
 date: 2020-06-19 06:02:32
 slug: "ep073-jacki-labua-washington-dc"
 audio: "2020-06-18_icast_ep073_Jacki_LaBua_Washington_DC.mp3"
+audioAlternative: "https://api.spreaker.com/download/episode/31828172/icast_ep_73_jacki_labua_washington_dc.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/3470ab28153393f66a9a81f75a786415.jpg"
 length: 22851071
 tags: episode

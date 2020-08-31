@@ -3,6 +3,7 @@ title: "Штоербератор - выпуск 77"
 date: 2020-07-31 05:18:28
 slug: "ep077-steuerberater"
 audio: "2020-07-30_icast_ep077_Steuerberater.mp3"
+audioAlternative: "https://api.spreaker.com/download/episode/40069146/icast_ep_077_steuerberater.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/efec39c99d1e6f59fbd00a49b4db2fab.jpg"
 length: 27808497
 tags: episode

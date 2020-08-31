@@ -3,6 +3,7 @@ title: "Ежедневный микрорасизм - выпуск 75"
 date: 2020-07-03 04:50:57
 slug: "ep075-casual-microracism"
 audio: "2020-07-02_icast_ep075_Casual_Microracism.mp3"
+audioAlternative: "https://api.spreaker.com/download/episode/35346525/icast_ep_75_casual_microracism.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/d3c9f350fb99a6eb69b54740ea34f163.jpg"
 length: 24179443
 tags: episode

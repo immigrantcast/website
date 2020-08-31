@@ -1,8 +1,8 @@
 ---
 title: "Автохром и маммография - пленочный выпуск - 67"
 date: 2020-05-10 14:41:55
-slug: "ep067-film-edition-bonus-track.wav"
-audio: "2020-05-08_icast_ep067_film_edition_bonus_track.wav"
+slug: "ep067-autochrome-and-mammography"
+audio: "2020-05-10_icast_ep067_autochrome_and_mammography.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/e9ef55175684e77275c9b170e0cf81b4.jpg"
 length: 34433773
 tags: episode

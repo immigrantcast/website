@@ -53,3 +53,5 @@ tags: episode
 Твиттер: [https://twitter.com/radioimmigrant](https://twitter.com/radioimmigrant)  
   
 Музыка в эпизоде: [https://soundcloud.com/simon\_sez\_music/coffee-and-jazz](https://soundcloud.com/simon_sez_music/coffee-and-jazz)
+
+<blockquote id="ski-ba-bop-ba-dop-bop" class="tiktok-embed" cite="https://www.tiktok.com/@ilyabirman/video/6867604278823898370" data-video-id="6867604278823898370" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@ilyabirman" href="https://www.tiktok.com/@ilyabirman">@ilyabirman</a> <p>Всех кто ещё помнит школу — с 1 сентября! <a title="1сентября" target="_blank" href="https://www.tiktok.com/tag/1сентября">##1сентября</a></p> <a target="_blank" title="♬ Scatman (Ski-Ba-Bop-Ba-Dop-Bop) - Basic Radio - Scatman John" href="https://www.tiktok.com/music/Scatman-Ski-Ba-Bop-Ba-Dop-Bop-6858582644687374337">♬ Scatman (Ski-Ba-Bop-Ba-Dop-Bop) - Basic Radio - Scatman John</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>

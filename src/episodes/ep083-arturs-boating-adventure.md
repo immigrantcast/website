@@ -10,9 +10,9 @@ explicit: clean
 tags: episode
 ---
 
-Артур совершил свою самую большую покупку в жизни и теперь сплавляет ее по Темзе в сторону Лондона. Прямое включение с борта баржи во время шторма Алекс.  
+Артур совершил свою самую большую покупку в жизни и теперь сплавляет ее по Темзе в сторону Лондона. Прямое включение с борта баржи во время шторма Алекс.
   
-* Сплав новой лодки Артура по Темзе  
+* Сплав новой лодки Артура по Темзе
 * Шторм Алекс и его последствия  
 * Покупка лодки для канала  
 * Откуда взялась сеть каналов в Британии  
@@ -35,9 +35,13 @@ tags: episode
 * Остров Магна Карты  
 * Починка пропеллера и weed hatch  
 * Шлюз между каналом и Темзой  
-* Зимовка на канале в Лондоне  
+* Зимовка на канале в Лондоне
+
+<div class="fixed-aspect-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-Z0loCcow8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   
-Посмотреть и почитать  
+Посмотреть и почитать:
   
 * Видео-тур по симпатичной narrow boat [https://www.youtube.com/watch?v=JUzbZ2l52dA](https://www.youtube.com/watch?v=JUzbZ2l52dA)  
 * Пафосная широкая лодка wide beam, объявление о продаже: [https://web.archive.org/web/20201008151649/https://www.apolloduck.com/boat/rll-boats-52-widebeam/648899](https://web.archive.org/web/20201008151649/https://www.apolloduck.com/boat/rll-boats-52-widebeam/648899)  

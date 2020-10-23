@@ -18,7 +18,7 @@ tags: episode
 * Парковка для баржи возле дворца  
 * Шлюз из Темзы в систему каналов  
 * Особенности шлюзов  
-* Исторический [каскад шлюзов](https://www.flickr.com/photos/bizarrebiking/3199338271/) на Гранд Юнион Канале [Hanwell Lock Flight](https://canalrivertrust.org.uk/places-to-visit/hanwell-lock-flight)
+* Исторический каскад шлюзов на Гранд Юнион Канале, [Hanwell Lock Flight](https://canalrivertrust.org.uk/places-to-visit/hanwell-lock-flight)
 * Удаленный поиск работы во время пандемии  
 * Мучительный выбор из пачки предложений  
 * Почему оффер это не конец процесса  

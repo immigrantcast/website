@@ -10,7 +10,7 @@ explicit: clean
 tags: episode
 ---
 
-Юбилейный выпуск Иммигранткаста с редакцией в полном составе, где мы плывем через Излингтонский тоннель навстречу светлому будущему.  
+Юбилейный выпуск Иммигранткаста с редакцией в полном составе, где мы плывем через Излингтонский тоннель навстречу светлому будущему.
   
 * Юбилейный выпуск номер 100  
 * Лучшие эпизоды Иммигранткаста за последние 3 года  
@@ -30,10 +30,14 @@ tags: episode
 * Cruising Alba [https://www.youtube.com/channel/UCWtDdDTkAKvYPD9dvV4NuNA](https://www.youtube.com/channel/UCWtDdDTkAKvYPD9dvV4NuNA)  
 * Мобильный интернет в окрестностях Лондона  
 * Синее дизельное топливо против красного  
-* Uxbridge и что там происходит  
+* Uxbridge и что там происходит https://www.youtube.com/watch?v=hgIWfXjq82E
 * Процесс починки двигателя в канальной лодке  
 * Управление каналами и нарушение правил пользования ими  
-* Соседи и их собаки  
+* Соседи и их собаки
+
+<div class="fixed-aspect-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t4gHjOE3380" title="Путешествие на narrowboat-лодке Артура на кинопленку Super 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   
 На нашем сайте вы можете найти архив всех выпусков Иммигранткаста за последние почти 4 года, включая все что мы упоминали в ретроспективе: [https://radioimmigrant.com](https://radioimmigrant.com)  
   

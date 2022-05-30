@@ -17,12 +17,12 @@ tags: episode
 * Новый исход людей из России  
 * Риски возвращения  
 * Финляндия и НАТО  
-* Njett Molotoff [https://ru.wikipedia.org/wiki/Njet,\_Molotoff](https://ru.wikipedia.org/wiki/Njet,_Molotoff)!#%D0%A2%D0%B5%D0%BA%D1%81%D1%82  
+* Njett Molotoff [https://ru.wikipedia.org/wiki/Njet,\_Molotoff](https://ru.wikipedia.org/wiki/Njet,_Molotoff)
 * Njett Molotoff live [https://www.youtube.com/watch?v=Jl2\_0OCwNbg](https://www.youtube.com/watch?v=Jl2_0OCwNbg)  
 * Сериалы про стартапы  
-* Проект [https://www.minimum.today/](https://www.minimum.today/) - новостная рассылка  
+* Проект [https://www.minimum.today/](https://www.minimum.today/) — новостная рассылка  
 * Хай фай на лодке  
-* Наушники Nothing  
+* Наушники Nothing https://in.nothing.tech/products/ear-1
 * Teenage Engineering [https://teenage.engineering/](https://teenage.engineering/)  
 * Тони Фаделл и Nest  
 * Шторм на лодке в Лондоне  
@@ -33,7 +33,7 @@ tags: episode
 * Youtube канал Rozetked и обзоры железяк [https://www.youtube.com/user/rozetked](https://www.youtube.com/user/rozetked)  
 * Обзор лаптопа Framework [https://www.youtube.com/watch?v=bdXMLuiFJUk](https://www.youtube.com/watch?v=bdXMLuiFJUk)  
 * Fairphone [https://www.fairphone.com/](https://www.fairphone.com/)  
-* Туалеты в Студии Лебедева  
+* Туалеты в Студии Лебедева https://www.artlebedev.ru/toilets/
   
 Пишите письма: [hello@radioimmigrant.com](mailto:hello@radioimmigrant.com)  
 Становитесь патронами: [https://patreon.com/immigrantcast](https://patreon.com/immigrantcast)  

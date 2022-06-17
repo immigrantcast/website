@@ -13,7 +13,7 @@ tags: episode
 Лето в Шотландии, как водится, короткое - но зато малоснежное.  
   
 * Погода в Эдинбурге летом  
-* Сто дней войны - подкаст итоги от BBC [https://podcasts.apple.com/gb/podcast/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-100-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B-%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%B2-%D0%B1%D0%B8-%D0%B1%D0%B8-%D1%81%D0%B8/id1460240829?i=1000565141512](https://podcasts.apple.com/gb/podcast/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-100-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B-%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%B2-%D0%B1%D0%B8-%D0%B1%D0%B8-%D1%81%D0%B8/id1460240829?i=1000565141512)  
+* Сто дней войны - подкаст итоги от BBC [https://podcasts.apple.com/gb/podcast/война-итоги-100-дней-войны-глазами-журналистов-би-би-си/id1460240829?i=1000565141512](https://podcasts.apple.com/gb/podcast/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-100-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B-%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%B2-%D0%B1%D0%B8-%D0%B1%D0%B8-%D1%81%D0%B8/id1460240829?i=1000565141512)  
 * Современное доминирование в мире  
 * Череповец и санкции  
 * Отъезд из Лондона и приключения с депозитом за квартирку  

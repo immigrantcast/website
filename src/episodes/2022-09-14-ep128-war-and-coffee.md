@@ -3,7 +3,7 @@ title: "Война и Крафтовый Кофе - выпуск 128"
 date: 2022-09-14 06:07:08
 slug: "2022-09-14-ep128-war-and-coffee"
 audio: "https://api.spreaker.com/download/episode/51251460/2022_09_14_icast_ep128_war_and_coffee.mp3"
-audioAlternative: "https://api.spreaker.com/download/episode/51251460/2022_09_14_icast_ep128_war_and_coffee.mp3"
+audioAlternative: "https://radioimmigrant.com/media/audio/2022-09-09_icast_ep128_war_and_coffee.mp3"
 cover: "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bf3806125688a8e9f2d838f39fb00f48.jpg"
 length: 53644503
 explicit: clean

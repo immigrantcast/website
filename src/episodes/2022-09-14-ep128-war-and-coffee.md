@@ -9,8 +9,6 @@ length: 53644503
 explicit: clean
 tags: episode
 ---
-
-Война и Крафтовый Кофе шоуноты  
   
 * Маринка из Радио Т подкаста [https://radio-t.com/](https://radio-t.com/)  
 * Постер для вашей кофейни [https://joinposter.com/](https://joinposter.com/)  

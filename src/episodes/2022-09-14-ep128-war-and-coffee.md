@@ -58,14 +58,14 @@ tags: episode
 — [Харьковский зоопарк](https://www.instagram.com/kharkiv_zoo/)  
 — Парк «[XII місяців](https://www.instagram.com/zoo_12m/)» в Киевской области 
 
-## Курс от партнеров
+### Курс от партнеров
 
 Курс с Олей Полищук - Как перепридумать себя в условиях неизвестности  
 [https://is.gd/bqVNoc](https://is.gd/bqVNoc)  
   
-**Скидка 5% по коду ИММИГРАНТКАСТ**
+Скидка 5% по коду «ИММИГРАНТКАСТ»
 
-## Пишите и подписывайтесь
+### Пишите и подписывайтесь
   
 Пишите письма: [hello@radioimmigrant.com](mailto:hello@radioimmigrant.com)  
 Становитесь патронами: [https://patreon.com/immigrantcast](https://patreon.com/immigrantcast)  

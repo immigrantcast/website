@@ -35,54 +35,39 @@ tags: episode
 * Бавария  
 * Языки и Германия  
 * Переход на украинский язык  
-* Медхэлпднипро [https://medhelpdnipro.org/](https://medhelpdnipro.org/)  
+* Медхэлпднипро [https://medhelpdnipro.org](https://medhelpdnipro.org/)  
 * Этика личных постов в соц сетях во время войны  
 * Блокирование аккаунтов в Фейсбук и Инстаграм  
 * Информационная война  
   
-Инстаграм Марины: [https://www.instagram.com/marin\_k\_a/](https://www.instagram.com/marin_k_a/)  
-Твиттер Марины: [https://twitter.com/marin\_k\_a](https://twitter.com/marin_k_a)  
+Инстаграм Марины: [https://www.instagram.com/marin_k_a](https://www.instagram.com/marin_k_a/)  
+Твиттер Марины: [https://twitter.com/marin_k_a](https://twitter.com/marin_k_a)  
   
-\=======  
+## Как помочь  
   
-Как помочь  
+1. [Med Help Dnipro](https://medhelpdnipro.org). Днепр — один из ближайших городов к линии фронта, в который везут раненых людей. Ребята покупают в больницы города лекарства и привозят оборудование. Например, портативные УЗИ-аппараты и современные дезинфекторы.  
   
-1\. Med Help Dnipro. Днепр — один из ближайших городов к линии фронта, в который везут раненых людей.  
+2. [Благодійний фонд Сергія Притули](https://prytulafoundation.org/). Тот самый, где мы насобирали на спутник. Можно донатить на конкретный проект, например, на мобильные дома для тех, кто остался без дома. Или просто в фонд.  
   
-Ребята покупают в больницы города лекарства и привозят оборудование. Например, портативные УЗИ-аппараты и современные дезинфекторы.  
+3. Фонд «[Таблеточки](https://tabletochki.org)». Помогают детям победить рак, который никуда не исчез из-за войны.  
   
-Все проекты есть на сайте: [https://medhelpdnipro.org](https://medhelpdnipro.org)  
+4. Фонд «[Старенькі](https://starenki.com.ua)». Помогают пожилым людям, волонтеры покупают и развозят продукты и лекарства.  
   
-2\. Благодійний фонд Сергія Притули. Тот самый, где мы насобирали на байрактары и купили спутник.  
-  
-Можно донатить на конкретный проект, например, на мобильные дома для тех, кто остался без дома. Или просто в фонд.  
-  
-[https://prytulafoundation.org/](https://prytulafoundation.org/)  
-  
-3\. Помощь животным:  
-• Организация UAnimals [https://www.instagram.com/uanimals.official/](https://www.instagram.com/uanimals.official/)  
-• Харьковский зоопарк [https://www.instagram.com/kharkiv\_zoo/](https://www.instagram.com/kharkiv_zoo/)  
-• Парк «XII місяців» в Киевской области [https://www.instagram.com/zoo\_12m/](https://www.instagram.com/zoo_12m/)  
-  
-4\. Фонд «Таблеточки». Помогают детям победить рак, который никуда не исчез из-за войны.  
-  
-[https://tabletochki.org](https://tabletochki.org)  
-  
-5\. Фонд «Старенькі». Помогают пожилым людям, волонтеры покупают и развозят продукты и лекарства.  
-  
-[https://starenki.com.ua](https://starenki.com.ua)  
-  
-6\. Билеты до эстонской, латвийской или польской границы эвакуированным украинцам  
-  
-[https://ua2eu.site/](https://ua2eu.site/)  
-  
-\=====  
+5. Билеты до эстонской, латвийской или польской границы эвакуированным украинцам: [https://ua2eu.site/](https://ua2eu.site/) (фонд советует [Бобук (Григорий Бакунов)](https://mobile.twitter.com/bobuk/status/1539655591211196417).
+
+6. Помощь животным:  
+— [Организация UAnimals](https://www.instagram.com/uanimals.official/)  
+— [Харьковский зоопарк](https://www.instagram.com/kharkiv_zoo/)  
+— Парк «[XII місяців](https://www.instagram.com/zoo_12m/)» в Киевской области 
+
+## Курс от партнеров
+
 Курс с Олей Полищук - Как перепридумать себя в условиях неизвестности  
 [https://is.gd/bqVNoc](https://is.gd/bqVNoc)  
   
-Скидка 5% по коду ИММИГРАНТКАСТ  
-\=====  
+**Скидка 5% по коду ИММИГРАНТКАСТ**
+
+## Пишите и подписывайтесь
   
 Пишите письма: [hello@radioimmigrant.com](mailto:hello@radioimmigrant.com)  
 Становитесь патронами: [https://patreon.com/immigrantcast](https://patreon.com/immigrantcast)  
-Наш сайт: [https://radioimmigrant.com](https://radioimmigrant.com)

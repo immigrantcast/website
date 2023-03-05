@@ -64,6 +64,6 @@ tags: episode
 * Apple выкатывает сканирование сообщений в Британии [https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones](https://www.theguardian.com/technology/2022/apr/20/apple-says-new-child-safety-feature-to-be-rolled-out-for-uk-iphones)  
 * Session Messenger - как альтернатива Signal [https://getsession.org/](https://getsession.org/)  
   
-Телеграм канал Ильяса: [https://t.me/h4cks0c1ety](https://t.me/h4cks0c1ety)  
+Телеграм канал: [https://t.me/h4cks0c1ety](https://t.me/h4cks0c1ety)  
 Поддержать подкаст: [https://patreon.com/immigrantcast](https://patreon.com/immigrantcast)  
 Пишите письма: [hello@radioimmigrant.com](mailto:hello@radioimmigrant.com)

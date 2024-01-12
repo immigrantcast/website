@@ -1,52 +1,45 @@
-let Parser = require('rss-parser');
-let parser = new Parser();
-let fs = require('fs');
-let TurndownService = require('turndown');
-let turndownService = new TurndownService();
+let Parser = require('rss-parser')
+let parser = new Parser()
+let fs = require('fs')
+let TurndownService = require('turndown')
+let turndownService = new TurndownService()
 
-let audioFilesNames = require('./audioFileNames.json');
+let audioFilesNames = require('./audioFileNames.json')
 
-const NEW_ONLY = true;
- 
-(async () => {
-  let feed = await parser.parseURL('https://www.spreaker.com/show/2683877/episodes/feed')
+const NEW_ONLY = true
+const FEED = 'https://www.spreaker.com/show/2683877/episodes/feed'
+
+;(async () => {
+  const feed = await parser.parseURL(FEED)
   console.log(feed.title)
- 
+
   feed.items.forEach(item => {
-    // console.log(item.title + ':' + item.link)
-    // console.log(item.itunes.explicit)
-    // console.log(item.content)
-    // console.log(item.pubDate)
-    // console.log(new Date(item.pubDate).toISOString())
-    // console.log(item.enclosure.url)
-    // console.log(item.enclosure.length)
-    // console.log(item.itunes.image)
+    // only import newer episodes, because older ones have different file name format,
+    // which results in slugs that are treated as new, even when they aren't
+    if (new Date(item.pubDate).getFullYear() < 2023) return
     saveEpisodeFile(item)
   })
-})();
+})()
 
 function saveEpisodeFile (episode) {
   const date = new Date(episode.pubDate).toISOString()
     .replace(/T/, ' ') // replace T with a space
     .replace(/\..+/, '') // delete the dot and everything after
   const fileNameDate = new Date(episode.pubDate).toISOString().split('T')[0]
-  let markdownContent = turndownService.turndown(episode.content)
+  const markdownContent = turndownService.turndown(episode.content)
     .replace(/\\- /g, '* ')
-  let fileName = null
-  let slug = null
-  if (typeof audioFilesNames[fileNameDate] !== 'undefined') {
-    fileName = audioFilesNames[fileNameDate]
-      .replace('.mp3', '')
-      .replace('_icast', '')
-      .replace(/_/g, '-')
-      .toLowerCase()
-  }
-  if (!fileName) {
-    slug = episode.link.split('/').pop().replace('icast-', '')
-    fileName = slug
-  } else {
-    slug = fileName.substring(11)
-  }
+
+  const fileName = episode.enclosure.url
+    .split('/').pop()
+    .toLowerCase()
+
+  const slug = fileName
+    .replace('.mp3', '')
+    .replace(/_/g, '-')
+    .replace('-icast-', '-')
+    .replace('icast-', '')
+    .substring(0, 34)
+
   const content = `---
 title: "${episode.title}"
 date: ${date}
@@ -61,7 +54,7 @@ tags: episode
 
 ${markdownContent}
 `
-  const path = `./src/episodes/${fileName}.md`
+  const path = `./src/episodes/${slug}.md`
 
   if (NEW_ONLY) {
     if (!fs.existsSync(path)) {
